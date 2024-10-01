@@ -20,6 +20,6 @@ Neste projeto é dado uma array de valores de forma 'aleatoria' e nele utiliza-s
 Um simples jogo de forca para se divertir e passar o tempo, uma palavra é dada e o usuario deverá adivinhar qual a palavra secreta atraves de seus caracteres. (em processo...)
 
 ## Contato
-# Mateus Barros (Linkedin)
-# mb685212@gmail.com
+- Mateus Barros (Linkedin)
+- mb685212@gmail.com
 
