@@ -1,16 +1,29 @@
-## Hi there 👋
+Olá, eu sou Mateus 👋
 
-<!--
-**MateusDBarros/MateusDBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor de software, iniciando sua carreira na area, com paixão por resolver problemas usando Python e C. Estou em busca do meu primeiro emprego na área de desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Habilidades
+- Linguagens de Programação: Python e C (mas disposto a aprender novas tecnologias
+- *Habilidades interpessoais: comunicação, trabalho em equipe, inteligencia emocional e responsabilidade.
+- Ingles Fluente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+### Registro
+Neste projeto em C, foi desenvolvido para armazenar, organizar e manipular dados de forma eficiente. Este sistema pode ser utilizado em diversas aplicações, como gerenciamento de inventário, cadastro de clientes, ou qualquer outra situação que necessite de armazenamento e recuperação de informações. (Finalizando...)
+
+### Ordenação e Busca
+Neste projeto é dado uma array de valores de forma 'aleatoria' e nele utiliza-se o algoritmo bubble sort e binary search para ordenar os numeros e retornar o valor desejado em seu index correspondente.
+
+### Forca
+Um simples jogo de forca para se divertir e passar o tempo, uma palavra é dada e o usuario deverá adivinhar qual a palavra secreta atraves de seus caracteres. (em processo...)
+
+## Contato
+- Mateus Barros  (Linkedin)
+- mb685212@gmail.com
+
+<h3>My GitHub contributions summary</h3>
+
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+[Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
