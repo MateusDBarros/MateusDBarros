@@ -3,7 +3,7 @@ Olá, eu sou Mateus 👋
 Sou um desenvolvedor de software, iniciando sua carreira na area, com paixão por resolver problemas usando Python e C. Estou em busca do meu primeiro emprego na área de desenvolvimento de software.
 
 ## Habilidades
-- Linguagens de Programação: Python e C (mas disposto a aprender novas tecnologias
+- Linguagens de Programação: Python e C (mas disposto a aprender novas tecnologias)
 <img alt="Python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="C" src="https://img.shields.io/badge/-C-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 - Habilidades interpessoais: comunicação, trabalho em equipe, inteligencia emocional e responsabilidade.
