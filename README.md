@@ -11,7 +11,7 @@ Sou um desenvolvedor de software, iniciando sua carreira na area, com paixão po
 
 ## Projetos
 ### Registro
-Neste projeto em C, foi desenvolvido para armazenar, organizar e manipular dados de forma eficiente. Este sistema pode ser utilizado em diversas aplicações, como gerenciamento de inventário, cadastro de clientes, ou qualquer outra situação que necessite de armazenamento e recuperação de informações. (Finalizando...)
+Neste projeto em C, foi desenvolvido para armazenar, organizar e manipular dados de forma eficiente. Este sistema pode ser utilizado em diversas aplicações, como gerenciamento de inventário, cadastro de clientes, ou qualquer outra situação que necessite de armazenamento e recuperação de informações.
 
 ### Ordenação e Busca
 Neste projeto é dado uma array de valores de forma 'aleatoria' e nele utiliza-se o algoritmo bubble sort e binary search para ordenar os numeros e retornar o valor desejado em seu index correspondente.
@@ -20,6 +20,6 @@ Neste projeto é dado uma array de valores de forma 'aleatoria' e nele utiliza-s
 Um simples jogo de forca para se divertir e passar o tempo, uma palavra é dada e o usuario deverá adivinhar qual a palavra secreta atraves de seus caracteres. (em processo...)
 
 ## Contato
-- Mateus Barros (Linkedin)
+- www.linkedin.com/in/mateus-barros13
 - mb685212@gmail.com
 
