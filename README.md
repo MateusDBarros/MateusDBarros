@@ -16,8 +16,8 @@ Neste projeto em C, foi desenvolvido para armazenar, organizar e manipular dados
 ### Ordenação e Busca
 Neste projeto é dado uma array de valores de forma 'aleatoria' e nele utiliza-se o algoritmo bubble sort e binary search para ordenar os numeros e retornar o valor desejado em seu index correspondente.
 
-### Forca
-Um simples jogo de forca para se divertir e passar o tempo, uma palavra é dada e o usuario deverá adivinhar qual a palavra secreta atraves de seus caracteres. (em processo...)
+### Jogo da Velha
+Um simples jogo da velha para se divertir e passar o tempo,.
 
 ## Contato
 - www.linkedin.com/in/mateus-barros13
