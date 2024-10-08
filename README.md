@@ -2,7 +2,10 @@
 
 Sou um desenvolvedor de software, iniciando minha carreira na área, com paixão por resolver problemas usando Python e C. Estou em busca do meu primeiro emprego na área de desenvolvimento de software.
 
-![Profile views](https://gpvc.arturio.dev/MateusDBarros)
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusDBarros&show_icons=true&theme=radical)
+
 
 ## Habilidades
 
