@@ -1,25 +1,33 @@
-Olá, eu sou Mateus 👋
+# Olá, eu sou Mateus 👋
 
-Sou um desenvolvedor de software, iniciando sua carreira na area, com paixão por resolver problemas usando Python e C. Estou em busca do meu primeiro emprego na área de desenvolvimento de software.
+Sou um desenvolvedor de software, iniciando minha carreira na área, com paixão por resolver problemas usando Python e C. Estou em busca do meu primeiro emprego na área de desenvolvimento de software.
+
+![Profile views](https://gpvc.arturio.dev/seu_usuario)
 
 ## Habilidades
-- Linguagens de Programação: Python e C (mas disposto a aprender novas tecnologias)
-<img alt="Python" src="https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="C" src="https://img.shields.io/badge/-C-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-- Habilidades interpessoais: comunicação, trabalho em equipe, inteligencia emocional e responsabilidade.
-- Ingles Fluente.
+
+- **Linguagens de Programação**: Python e C (disposto a aprender novas tecnologias)
+  ![Python](https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-13aa52?style=flat-square&logo=c&logoColor=white)
+- **Habilidades interpessoais**: comunicação, trabalho em equipe, inteligência emocional e responsabilidade.
+- **Inglês**: Fluente.
 
 ## Projetos
-### Registro
-Neste projeto em C, foi desenvolvido para armazenar, organizar e manipular dados de forma eficiente. Este sistema pode ser utilizado em diversas aplicações, como gerenciamento de inventário, cadastro de clientes, ou qualquer outra situação que necessite de armazenamento e recuperação de informações.
 
-### Ordenação e Busca
-Neste projeto é dado uma array de valores de forma 'aleatoria' e nele utiliza-se o algoritmo bubble sort e binary search para ordenar os numeros e retornar o valor desejado em seu index correspondente.
+### [Registro](https://github.com/seu_usuario/registro)
+Desenvolvido em C, este projeto armazena, organiza e manipula dados de forma eficiente. Aplicável em gerenciamento de inventário, cadastro de clientes e mais.
 
-### Jogo da Velha
-Um simples jogo da velha para se divertir e passar o tempo,.
+### [Ordenação e Busca](https://github.com/seu_usuario/ordenacao-e-busca)
+Projeto que utiliza bubble sort e binary search para ordenar e buscar valores em um array.
+
+### [Jogo da Velha](https://github.com/seu_usuario/jogo-da-velha)
+Um simples jogo da velha para se divertir e passar o tempo.
+
+## Estatísticas do GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)
 
 ## Contato
-- www.linkedin.com/in/mateus-barros13
-- mb685212@gmail.com
 
+- [LinkedIn](https://www.linkedin.com/in/mateus-barros13)
+- Email: mb685212@gmail.com
