@@ -15,7 +15,7 @@ Sou um desenvolvedor de software, iniciando minha carreira na área, com paixão
 ### [Registro](https://github.com/MateusDBarros/registro)
 Desenvolvido em C, este projeto armazena, organiza e manipula dados de forma eficiente. Aplicável em gerenciamento de inventário, cadastro de clientes e mais.
 
-### [Ordenação e Busca](https://github.com/MateusDBarros/ordenacao-e-busca)
+### [Ordenação e Busca](https://github.com/MateusDBarros/ordenacao_e_busca)
 Projeto que utiliza bubble sort e binary search para ordenar e buscar valores em um array.
 
 ### [Jogo da Velha](https://github.com/MateusDBarros/tic-tac-toe)
