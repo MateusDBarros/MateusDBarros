@@ -27,11 +27,11 @@ Um simples jogo da velha para se divertir e passar o tempo.
 
 ## Atividades Recentes
 
-![Atividades Recentes](https://github-readme-activity-graph.cyclic.app/graph?username=seu_usuario&theme=rogue)
+![Atividades Recentes](https://github-readme-activity-graph.cyclic.app/graph?username=MateusDBarros&theme=rogue)
 
 ## Sequência de Contribuições
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu_usuario&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MateusDBarros&theme=radical)
 
 ## Contato
 
