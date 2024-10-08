@@ -2,11 +2,6 @@
 
 Sou um desenvolvedor de software, iniciando minha carreira na área, com paixão por resolver problemas usando Python e C. Estou em busca do meu primeiro emprego na área de desenvolvimento de software.
 
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusDBarros&show_icons=true&theme=radical)
-
-
 ## Habilidades
 
 - **Linguagens de Programação**: Python e C (disposto a aprender novas tecnologias)
@@ -29,6 +24,14 @@ Um simples jogo da velha para se divertir e passar o tempo.
 ## Estatísticas do GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusDBarros&show_icons=true&theme=radical)
+
+## Atividades Recentes
+
+![Atividades Recentes](https://github-readme-activity-graph.cyclic.app/graph?username=seu_usuario&theme=rogue)
+
+## Sequência de Contribuições
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu_usuario&theme=radical)
 
 ## Contato
 
