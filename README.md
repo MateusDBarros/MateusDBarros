@@ -14,18 +14,18 @@ Sou um desenvolvedor de software, iniciando minha carreira na área, com paixão
 
 ## Projetos
 
-### [Registro](https://github.com/seu_usuario/registro)
+### [Registro](https://github.com/MateusDBarros/registro)
 Desenvolvido em C, este projeto armazena, organiza e manipula dados de forma eficiente. Aplicável em gerenciamento de inventário, cadastro de clientes e mais.
 
-### [Ordenação e Busca](https://github.com/seu_usuario/ordenacao-e-busca)
+### [Ordenação e Busca](https://github.com/MateusDBarros/ordenacao-e-busca)
 Projeto que utiliza bubble sort e binary search para ordenar e buscar valores em um array.
 
-### [Jogo da Velha](https://github.com/seu_usuario/jogo-da-velha)
+### [Jogo da Velha](https://github.com/MateusDBarros/tic-tac-toe)
 Um simples jogo da velha para se divertir e passar o tempo.
 
 ## Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusDBarros&show_icons=true&theme=radical)
 
 ## Contato
 
