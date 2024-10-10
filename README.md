@@ -25,10 +25,6 @@ Um simples jogo da velha para se divertir e passar o tempo.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusDBarros&show_icons=true&theme=radical)
 
-## Atividades Recentes
-
-![Atividades Recentes](https://github-readme-activity-graph.cyclic.app/graph?username=MateusDBarros&theme=rogue)
-
 ## Sequência de Contribuições
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MateusDBarros&theme=radical)
