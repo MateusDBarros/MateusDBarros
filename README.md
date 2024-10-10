@@ -35,5 +35,5 @@ Um simples jogo da velha para se divertir e passar o tempo.
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/mateus-barros13)
+- [LinkedIn](https://www.linkedin.com/in/mateus-barros13
 - Email: mb685212@gmail.com
