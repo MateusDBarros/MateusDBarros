@@ -4,7 +4,7 @@ Sou um desenvolvedor de software, iniciando minha carreira na área, com paixão
 
 ## Habilidades
 
-- **Linguagens de Programação**: Python e C (disposto a aprender novas tecnologias)
+- **Linguagens de Programação**: Java e C (disposto a aprender novas tecnologias)
   ![Java](https://img.shields.io/badge/-Python-13aa52?style=flat-square&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/-C-13aa52?style=flat-square&logo=c&logoColor=white)
 - **Habilidades interpessoais**: comunicação, trabalho em equipe, inteligência emocional e responsabilidade.
