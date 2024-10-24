@@ -1,14 +1,10 @@
-# Olá, eu sou Mateus
+## Olá, eu sou Mateus, Dev Software Back-End
 
 Sou um desenvolvedor de software, iniciando minha carreira na área, com paixão por resolver problemas usando Java e C. Estou em busca do meu primeiro emprego na área de desenvolvimento de software.
 
-## Habilidades
+##
 
-- **Linguagens de Programação**: Java e C (disposto a aprender novas tecnologias)  
-  ![Java](https://img.shields.io/badge/-Java-13aa52?style=flat-square&logo=java&logoColor=white) 
-  ![C](https://img.shields.io/badge/-C-13aa52?style=flat-square&logo=c&logoColor=white)
-- **Habilidades interpessoais**: comunicação, trabalho em equipe, inteligência emocional e responsabilidade.
-- **Inglês**: Fluente.
+ <a href="https://instagram.com/mateusdbarros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
 ## Projetos
