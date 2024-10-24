@@ -2,7 +2,9 @@
 
 Sou um desenvolvedor de software, iniciando minha carreira na área, com paixão por resolver problemas usando Java e C. Estou em busca do meu primeiro emprego na área de desenvolvimento de software.
 
-<a href="https://instagram.com/mateusdbarros" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"></a>
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ##
 
