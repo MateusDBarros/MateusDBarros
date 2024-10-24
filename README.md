@@ -1,7 +1,5 @@
 ## Olá, eu sou Mateus, Dev Software Back-End
 
-Sou um desenvolvedor de software, iniciando minha carreira na área, com paixão por resolver problemas usando Java e C. Estou em busca do meu primeiro emprego na área de desenvolvimento de software.
-
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,python" />
