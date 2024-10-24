@@ -8,7 +8,7 @@ Sou um desenvolvedor de software, iniciando minha carreira na área, com paixão
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=c,java,python" />
 </div>
 
 ##
