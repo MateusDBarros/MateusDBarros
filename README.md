@@ -4,8 +4,7 @@ Sou um desenvolvedor de software, iniciando minha carreira na área, com paixão
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,html,css
-    " />
+    <img src="https://skillicons.dev/icons?i=c,java,python,html,css" />
 </div>
 
 ##
