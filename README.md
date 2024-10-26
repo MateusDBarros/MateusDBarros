@@ -12,7 +12,7 @@
 
 ## Projetos
 
-### [Registro](https://github.com/MateusDBarros/registro)
+### [Sistema de Invetario](https://github.com/MateusDBarros/inventario)
 Desenvolvido em C, este projeto armazena, organiza e manipula dados de forma eficiente. Aplicável em gerenciamento de inventário, cadastro de clientes e mais.
 
 ### [Gerenciador de Contatos](https://github.com/MateusDBarros/Contatos)
