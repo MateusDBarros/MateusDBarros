@@ -24,7 +24,7 @@ Projeto que utiliza de algoritmos de estrutura de dados para organizar, armazena
 ### [Jogo da Velha](https://github.com/MateusDBarros/tic-tac-toe)
 Um simples jogo da velha para se divertir e passar o tempo.
 
-![MateusDBarros's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusDBarros&theme=github_dark&show_icons=true,hide_border=true)
+![MateusDBarros's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusDBarros&theme=github_dark&show_icons=true&hide_border=true)
 
 ## Contato
 
