@@ -34,5 +34,5 @@ Um programa que armazena e gerencia suas tarefas diarias, organizando por niveis
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/mateus-barros13
-- Email: mb685212@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/mateus-barros13)
+- [Email](mb685212@gmail.com)
