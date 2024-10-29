@@ -12,6 +12,9 @@
 
 ## Projetos
 
+### [Simulador de Batalhas Espaciais](https://github.com/MateusDBarros/SBE)
+Este projeto é um Simulador de Batalhas Espaciais em C. Os jogadores podem escolher uma nave e lutar contra o computador.
+
 ### [Sistema de Invetario](https://github.com/MateusDBarros/inventario)
 Desenvolvido em C, este projeto armazena, organiza e manipula dados de forma eficiente. Aplicável em gerenciamento de inventário, cadastro de clientes e mais.
 
@@ -20,9 +23,6 @@ Projeto que utiliza de algoritmos de estrutura de dados para organizar, armazena
 
 ### [Jogo da Velha](https://github.com/MateusDBarros/tic-tac-toe)
 Um simples jogo da velha para se divertir e passar o tempo.
-
-### [Lista de Afazeres (ToDo List)](https://github.com/MateusDBarros/ToDoList)
-Um programa que armazena e gerencia suas tarefas diarias, organizando por niveis de prioridades e status.
 
 ## Estatísticas do GitHub
 
