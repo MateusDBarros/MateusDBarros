@@ -30,7 +30,7 @@ Um simples jogo da velha para se divertir e passar o tempo.
 
 ## Sequência de Contribuições
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MateusDBarros&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 ## Contato
 
