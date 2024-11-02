@@ -13,7 +13,7 @@
 ## Projetos
 
 ### [Java Learning Journey 🚀](https://github.com/MateusDBarros/JavaLearningJourney)
-Este repositório documenta minha jornada de aprendizado em Java. Inclui projetos como uma calculadora simples, algoritmos de busca e ordenação, e um jogo de adivinhação.
+Este repositório documenta minha jornada de aprendizado em Java.
 
 ### [Simulador de Batalhas Espaciais](https://github.com/MateusDBarros/SBE)
 Este projeto é um Simulador de Batalhas Espaciais em C. Os jogadores podem escolher uma nave e lutar contra o computador.
