@@ -28,7 +28,7 @@ Projeto que utiliza de algoritmos de estrutura de dados para organizar, armazena
 Um simples jogo da velha para se divertir e passar o tempo.
 
 ![MateusDBarros's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusDBarros&theme=github_dark&show_icons=true&hide_border=true)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MateusDBarros&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MateusDBarros&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
 
 ## Contato
 
