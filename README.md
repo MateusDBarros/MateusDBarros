@@ -15,16 +15,16 @@
 ### [Java Learning Journey 🚀](https://github.com/MateusDBarros/JavaLearningJourney)
 Este repositório documenta minha jornada de aprendizado em Java.
 
-### [Simulador de Batalhas Espaciais](https://github.com/MateusDBarros/SBE)
+### [Simulador de Batalhas Espaciais -- C](https://github.com/MateusDBarros/SBE)
 Este projeto é um Simulador de Batalhas Espaciais em C. Os jogadores podem escolher uma nave e lutar contra o computador.
 
-### [Sistema de Inventário](https://github.com/MateusDBarros/inventario)
+### [Sistema de Inventário -- C](https://github.com/MateusDBarros/inventario)
 Desenvolvido em C, este projeto armazena, organiza e manipula dados de forma eficiente. Aplicável em gerenciamento de inventário, cadastro de clientes e mais.
 
-### [Gerenciador de Contatos](https://github.com/MateusDBarros/Contatos)
+### [Agenda de Contatos -- Java](https://github.com/MateusDBarros/AgendaJava)
 Projeto que utiliza de algoritmos de estrutura de dados para organizar, armazenar e gerenciar dados de seus usuários.
 
-### [Jogo da Velha](https://github.com/MateusDBarros/tic-tac-toe)
+### [Jogo da Velha -- C](https://github.com/MateusDBarros/tic-tac-toe)
 Um simples jogo da velha para se divertir e passar o tempo.
 
 ![MateusDBarros's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusDBarros&theme=github_dark&show_icons=true&hide_border=true)
