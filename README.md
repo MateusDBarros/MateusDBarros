@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,kotlin,java,typescript,angular,spring" />
+    <img src="https://skillicons.dev/icons?i=c,kotlin,java,spring" />
 </div>
 
 ##
