@@ -14,9 +14,8 @@
 
 ### [Register API 🚀](https://github.com/MateusDBarros/Teste-Backend)
 Este projeto é uma api utilizando spring boot, jdbc e postgresql, usados para conectar 11 endpoints e interligando os bancos de dados.
-### [Simulador de Batalhas Espaciais -- C](https://github.com/MateusDBarros/SBE)
-Este projeto é um Simulador de Batalhas Espaciais em C. Os jogadores podem escolher uma nave e lutar contra o computador.
-
+### [Game-Store API](https://github.com/MateusDBarros/game-store-api)
+Este projeto é um CRUD gerenciador de jogos digitais utilizando spring boot.
 ### [Sistema de Inventário -- C](https://github.com/MateusDBarros/inventario)
 Desenvolvido em C, este projeto armazena, organiza e manipula dados de forma eficiente. Aplicável em gerenciamento de inventário, cadastro de clientes e mais.
 
