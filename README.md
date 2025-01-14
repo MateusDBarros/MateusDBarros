@@ -13,7 +13,7 @@
 ## Projetos
 
 ### [Register API 🚀](https://github.com/MateusDBarros/Teste-Backend)
-Este projeto é uma api utilizando spring boot, jdbc e postgresql, usados para conectar 11 endpoints e interligando os bancos de dados.
+Este projeto é uma API utilizando Spring Boot, JDBC e PostgreSQL, usados para conectar 11 endpoints e interligando os bancos de dados.
 ### [Game-Store API](https://github.com/MateusDBarros/game-store-api)
 Este projeto é um CRUD gerenciador de jogos digitais utilizando spring boot.
 ### [Sistema de Inventário -- C](https://github.com/MateusDBarros/inventario)
