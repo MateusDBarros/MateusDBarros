@@ -16,8 +16,8 @@
 Este projeto é uma API utilizando Spring Boot, JDBC e PostgreSQL, usados para conectar 11 endpoints e interligando os bancos de dados.
 ### [Game-Store API](https://github.com/MateusDBarros/game-store-api)
 Este projeto é um CRUD gerenciador de jogos digitais utilizando spring boot.
-### [Sistema de Inventário -- C](https://github.com/MateusDBarros/inventario)
-Desenvolvido em C, este projeto armazena, organiza e manipula dados de forma eficiente. Aplicável em gerenciamento de inventário, cadastro de clientes e mais.
+### [Kanban-System](https://github.com/MateusDBarros/KanbanSystem)
+Este projeto é um sistema de gerenciamento de pessoas simples e eficiente, que utiliza um banco de dados PostgreSQL.
 
 ### [Agenda de Contatos -- Java](https://github.com/MateusDBarros/AgendaJava)
 Projeto que utiliza de algoritmos de estrutura de dados para organizar, armazenar e gerenciar dados de seus usuários.
