@@ -4,15 +4,15 @@ Sou um desenvolvedor focado em **backend** com experiência em **Java**, **Sprin
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,git" />
+    <img src="https://skillicons.dev/icons?i=python,java,spring,postgres,git" />
   </a>
 </div>
 
 ---
 
 ## 🛠 Tecnologias e Ferramentas
-- **Linguagens:** Java, Kotlin, C
-- **Frameworks:** Spring Boot
+- **Linguagens:** Java, Python
+- **Frameworks:** Spring Boot, Django
 - **Banco de Dados:** PostgreSQL
 - **Ferramentas:** IntelliJ IDEA, Postman, Maven, Git
 
