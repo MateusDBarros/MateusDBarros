@@ -14,7 +14,7 @@ Sou um desenvolvedor focado em **backend** com experiência em **Java**, **Sprin
 - **Linguagens:** Java, Python
 - **Frameworks:** Spring Boot, Django
 - **Banco de Dados:** PostgreSQL
-- **Ferramentas:** IntelliJ IDEA, Postman, Maven, Git
+- **Ferramentas:** IntelliJ IDEA,PyCharm, Postman, Maven, Git
 
 ---
 
