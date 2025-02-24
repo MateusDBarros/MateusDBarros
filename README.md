@@ -35,14 +35,6 @@ Projeto em **Java** que utiliza algoritmos de estrutura de dados para organizar,
 ### [Jogo da Velha](https://github.com/MateusDBarros/tic-tac-toe)
 Um jogo simples e divertido desenvolvido em **C**.
 
----
-
-## 📈 Minhas Estatísticas
-
-![MateusDBarros's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusDBarros&theme=github_dark&show_icons=true&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MateusDBarros&theme=github-dark-dimmed&hide_border=true)
-
----
 
 ## 🌐 Contato
 
