@@ -13,8 +13,8 @@ Sou estudante de Analise e Desenvolvimento de Sistemas pela Fatec, e meu foco é
 ## 🛠 Tecnologias e Ferramentas
 - **Linguagens:** Java, Python
 - **Frameworks:** Spring Boot, Django
-- **Banco de Dados:** SQL, 
-- **Ferramentas:** IntelliJ IDEA,PyCharm, Postman, Maven, Git
+- **Banco de Dados:** SQL
+- **Ferramentas:** Excel, Postman, Maven, Git
 
 ---
 
