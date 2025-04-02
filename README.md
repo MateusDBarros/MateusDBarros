@@ -1,6 +1,6 @@
-# Olá, eu sou Mateus, Desenvolvedor Back-End 🚀
+# Olá, eu sou Mateus
 
-Sou um desenvolvedor focado em **backend** com experiência em **Java**, **Spring Boot** e **PostgreSQL**. Estou sempre buscando melhorar minhas habilidades e contribuir com projetos que causem impacto. Aqui você encontrará projetos que refletem meu aprendizado, criatividade e paixão por tecnologia.
+Sou estudante de Analise e Desenvolvimento de Sistemas pela Fatec, e meu foco é criar soluções e inovações através da tecnologia. 
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
@@ -13,7 +13,7 @@ Sou um desenvolvedor focado em **backend** com experiência em **Java**, **Sprin
 ## 🛠 Tecnologias e Ferramentas
 - **Linguagens:** Java, Python
 - **Frameworks:** Spring Boot, Django
-- **Banco de Dados:** PostgreSQL
+- **Banco de Dados:** SQL, 
 - **Ferramentas:** IntelliJ IDEA,PyCharm, Postman, Maven, Git
 
 ---
@@ -21,20 +21,16 @@ Sou um desenvolvedor focado em **backend** com experiência em **Java**, **Sprin
 ## 🚀 Projetos em Destaque
 
 ### [Register API](https://github.com/MateusDBarros/Teste-Backend)
-API RESTful desenvolvida com **Spring Boot**, **JDBC** e **PostgreSQL**. Este projeto inclui 11 endpoints conectados ao banco de dados para gerenciar cursos, turmas e participantes.
+BACKEND -- API RESTful desenvolvida com **Spring Boot**, **JDBC** e **PostgreSQL**. Este projeto inclui 11 endpoints conectados ao banco de dados para gerenciar cursos, turmas e participantes.
 
-### [Game-Store API](https://github.com/MateusDBarros/game-store-api)
-Um sistema CRUD para gerenciamento de jogos digitais, implementado com **Spring Boot** e organizado para escalabilidade.
+### [bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)
+DATA SCIENCE -- Projeto que realiza web scraping para coletar dados de um site, extrair informações sobre países e suas capitais e armazená-las em um arquivo Excel. Após a coleta, o usuário pode pesquisar por um país ou capital interativamente.
 
-### [Kanban-System](https://github.com/MateusDBarros/KanbanSystem)
-Sistema de gerenciamento de pessoas que utiliza **PostgreSQL** e boas práticas RESTful para uma experiência eficiente.
+### [Leads](https://github.com/MateusDBarros/Leads)
+BACKEND -- Este projeto é uma API de Chatbot desenvolvida com Flask, integrada a um banco de dados PostgreSQL, e um frontend em HTML, CSS e JavaScript. O chatbot coleta informações de potenciais clientes (leads) e armazena no banco para posterior análise e contato.
 
-### [Agenda de Contatos](https://github.com/MateusDBarros/AgendaJava)
-Projeto em **Java** que utiliza algoritmos de estrutura de dados para organizar, armazenar e gerenciar contatos de usuários.
-
-### [Jogo da Velha](https://github.com/MateusDBarros/tic-tac-toe)
-Um jogo simples e divertido desenvolvido em **C**.
-
+### [Djando API]( https://github.com/MateusDBarros/Django)
+BACKEND -- Este projeto é uma API RESTful desenvolvida com Django e Django REST Framework (DRF). Ele permite realizar operações CRUD (Create, Read, Update, Delete) para gerenciar um catálogo de livros. Criado para fins de estudo, este sistema demonstra a implementação de APIs com Django.
 
 ## 🌐 Contato
 
