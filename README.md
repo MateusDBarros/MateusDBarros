@@ -29,6 +29,9 @@ DATA SCIENCE -- Projeto que realiza web scraping para coletar dados de um site, 
 ### [Leads](https://github.com/MateusDBarros/Leads)
 BACKEND -- Este projeto é uma API de Chatbot desenvolvida com Flask, integrada a um banco de dados PostgreSQL, e um frontend em HTML, CSS e JavaScript. O chatbot coleta informações de potenciais clientes (leads) e armazena no banco para posterior análise e contato.
 
+### [Feels](https://github.com/MateusDBarros/Feels)
+DATA SCIENCE -- Esta é uma API simples desenvolvida em Python utilizando FastAPI e a biblioteca Transformers da Hugging Face. A API recebe um texto em português e retorna uma análise de sentimentos (por exemplo, POSITIVE ou NEGATIVE) com uma pontuação de confiança.
+
 ### [Djando API]( https://github.com/MateusDBarros/Django)
 BACKEND -- Este projeto é uma API RESTful desenvolvida com Django e Django REST Framework (DRF). Ele permite realizar operações CRUD (Create, Read, Update, Delete) para gerenciar um catálogo de livros. Criado para fins de estudo, este sistema demonstra a implementação de APIs com Django.
 
