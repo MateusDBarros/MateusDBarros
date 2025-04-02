@@ -21,7 +21,8 @@ Sou estudante de Analise e Desenvolvimento de Sistemas pela Fatec, e meu foco é
 ## 🚀 Projetos em Destaque
 
 ### [Register API](https://github.com/MateusDBarros/Teste-Backend)
-BACKEND -- API RESTful desenvolvida com **Spring Boot**, **JDBC** e **PostgreSQL**. Este projeto inclui 11 endpoints conectados ao banco de dados para gerenciar cursos, turmas e participantes.
+### BACKEND
+API RESTful desenvolvida com **Spring Boot**, **JDBC** e **PostgreSQL**. Este projeto inclui 11 endpoints conectados ao banco de dados para gerenciar cursos, turmas e participantes.
 
 ### [bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)
 DATA SCIENCE -- Projeto que realiza web scraping para coletar dados de um site, extrair informações sobre países e suas capitais e armazená-las em um arquivo Excel. Após a coleta, o usuário pode pesquisar por um país ou capital interativamente.
