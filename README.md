@@ -1,20 +1,11 @@
 # Olá, eu sou Mateus
 
-Sou estudante de Analise e Desenvolvimento de Sistemas pela Fatec, e meu foco é criar soluções e inovações através da tecnologia. 
-
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pandas,django,java,spring,postgres,git" />
   </a>
 </div>
 
----
-
-## 🛠 Tecnologias e Ferramentas
-- **Linguagens:** Java, Python
-- **Frameworks:** Spring Boot, Django
-- **Banco de Dados:** SQL
-- **Ferramentas:** Excel, Postman, Maven, Git
 
 ---
 
