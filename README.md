@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pandas,django,java,spring,postgres,git" />
+    <img src="https://skillicons.dev/icons?i=python,django,java,spring,postgres,git" />
   </a>
 </div>
 
