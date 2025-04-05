@@ -32,8 +32,9 @@ Sou um desenvolvedor backend apaixonado por criar soluções eficientes, escalá
 
 ---
 
-<div align="center">
-<h2>Terminal - Skills</h2>
+<
+## 💻 Terminal Nerd
+
 ```bash
 > MateusBarros --help
 Backend Developer | Python | Django | Java | Spring Boot
@@ -47,6 +48,3 @@ Backend Developer | Python | Django | Java | Spring Boot
 [✔] Web scraping com BeautifulSoup
 [✔] Machine Learning básico com Scikit-Learn
 [✔] Curioso e faminto por novos desafios
-
-> exit
-```
