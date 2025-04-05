@@ -21,6 +21,8 @@
 
 </div>
 
+---
+
 ```bash
 > Skills --list
 [✔] APIs RESTful
