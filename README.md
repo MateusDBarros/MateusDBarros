@@ -21,10 +21,6 @@
 
 </div>
 
-
-<
-## 💻 Terminal Nerd
-
 ```bash
 > Skills --list
 [✔] APIs RESTful
@@ -36,8 +32,6 @@
 [✔] Machine Learning
 ```
 </div>
-
----
 
 <div align="center">
 <h2>Projetos em destaque</h2>
