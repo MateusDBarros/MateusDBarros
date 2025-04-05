@@ -1,4 +1,11 @@
-# Olá, eu sou Mateus 👋
+# Olá, eu sou o Mateus 👋
+
+## Sobre mim
+Backend Developer | Python | Data Science | Machine Learning Enthusiast  
+🚀 Atualmente focado em backend com **Django**, **Spring Boot** e **Flask**  
+📚 Sempre aprendendo sobre **Data Science**, **Machine Learning** e **Inteligência Artificial**
+
+---
 
 ## 🚀 Tecnologias que eu uso
 
@@ -11,34 +18,51 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🌟 Projetos em Destaque
 
-### Data Science
+### **Data Science**
 
-#### [bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)
-- **Descrição**: Realiza web scraping para coletar dados sobre países e suas capitais e os armazena em um arquivo Excel.
-- **Tecnologias**: Python, BeautifulSoup, Pandas, Excel
-- **Como rodar**: Clone o repositório e execute o script.
+#### [bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)  
+🌍 **Web Scraping** para coletar dados sobre países e capitais e gerar um relatório em Excel.  
+🧑‍💻 **Tecnologias**: Python, BeautifulSoup, Pandas  
+🚀 **Como rodar**: Clone o repositório, instale as dependências com `pip install -r requirements.txt` e execute o script.
 
-#### [Feels](https://github.com/MateusDBarros/Feels)
-- **Descrição**: API para análise de sentimentos de textos em português.
-- **Tecnologias**: Python, FastAPI, Hugging Face Transformers
-- **Como rodar**: Clone o repositório e execute o servidor FastAPI.
+![bs4Pandas Demo](https://media.giphy.com/media/26xBqX5nDNNtmoj7C/giphy.gif)
 
-### Backend
+---
 
-#### [Register API](https://github.com/MateusDBarros/Teste-Backend)
-- **Descrição**: API RESTful para gerenciar cursos, turmas e participantes.
-- **Tecnologias**: Java, Spring Boot, PostgreSQL
-- **Como rodar**: Clone o repositório e configure o banco de dados.
+### **Backend**
 
-#### [Leads](https://github.com/MateusDBarros/Leads)
-- **Descrição**: Chatbot API com Flask para coleta de leads.
-- **Tecnologias**: Flask, PostgreSQL, HTML, CSS, JavaScript
-- **Como rodar**: Clone o repositório e execute o servidor Flask.
+#### [Register API](https://github.com/MateusDBarros/Teste-Backend)  
+📦 **API RESTful** para gerenciar cursos, turmas e participantes.  
+🧑‍💻 **Tecnologias**: Java, Spring Boot, PostgreSQL  
+🚀 **Como rodar**: Clone o repositório, configure seu banco de dados PostgreSQL e execute a aplicação Spring Boot.
+
+#### [Leads](https://github.com/MateusDBarros/Leads)  
+🤖 **Chatbot API** desenvolvida com Flask para coleta de informações de leads e armazenamento em PostgreSQL.  
+🧑‍💻 **Tecnologias**: Flask, PostgreSQL, HTML, CSS, JavaScript  
+🚀 **Como rodar**: Clone o repositório, instale as dependências e execute o servidor Flask.
+
+---
+
+## 📊 Minhas Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusDBarros&show_icons=true&theme=radical&count_private=true)
+
+---
+
+## 🏆 Conquistas
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MateusDBarros&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🌐 Contato
 
 [LinkedIn](https://www.linkedin.com/in/mateus-barros13) | [Gmail](mailto:mb685212@gmail.com)
+
+---
+
+## 🎨 Meu Portfólio
+Se você quer ver mais detalhes sobre meus projetos, [clique aqui](https://meuportfolio.com) para acessar o meu portfólio pessoal.
+
