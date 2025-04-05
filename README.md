@@ -44,7 +44,7 @@ Sou um desenvolvedor backend apaixonado por criar soluções eficientes, escalá
 [✔] Git & GitHub
 [✔] Data Science
 [✔] Machine Learning
-
+```
 </div>
 
 ---
@@ -99,4 +99,3 @@ Tecnologias: Flask, PostgreSQL, HTML, CSS, JS
 
 <!-- RODAPÉ ANIMADO -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer"/>
-```
