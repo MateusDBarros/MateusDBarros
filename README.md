@@ -33,4 +33,20 @@ Sou um desenvolvedor backend apaixonado por criar soluções eficientes, escalá
 ---
 
 <div align="center">
-<h2>Terminal Fake - Skills</h2>
+<h2>Terminal - Skills</h2>
+```bash
+> MateusBarros --help
+Backend Developer | Python | Django | Java | Spring Boot
+
+> Skills --list
+[✔] APIs RESTful
+[✔] Django ORM
+[✔] Spring Data JPA
+[✔] PostgreSQL | SQLite | MySQL
+[✔] Git & GitHub
+[✔] Web scraping com BeautifulSoup
+[✔] Machine Learning básico com Scikit-Learn
+[✔] Curioso e faminto por novos desafios
+
+> exit
+```
