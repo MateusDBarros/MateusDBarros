@@ -10,11 +10,6 @@
 <div align="center">
 <h1><img height="40" src="https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif"> Sobre mim</h1>
 </div>
-
-<p align="center">
-Sou um desenvolvedor backend apaixonado por criar soluções eficientes, escaláveis e com um toque criativo. Gosto de desafios, sou entusiasta de IA e fã do universo tech.
-</p>
-
 ---
 
 <div align="center">
