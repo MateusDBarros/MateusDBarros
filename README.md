@@ -44,4 +44,59 @@ Sou um desenvolvedor backend apaixonado por criar soluções eficientes, escalá
 [✔] Git & GitHub
 [✔] Data Science
 [✔] Machine Learning
+
+</div>
+
+---
+
+<div align="center">
+<h2>Projetos em destaque</h2>
+
+**[bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)**  
+Coleta dados sobre países e capitais com Web Scraping e gera um relatório em Excel.  
+Tecnologias: Python, BeautifulSoup, Pandas  
+![bs4Pandas Demo](https://media.giphy.com/media/26xBqX5nDNNtmoj7C/giphy.gif)
+
+---
+
+**[Register API](https://github.com/MateusDBarros/Teste-Backend)**  
+API RESTful para gerenciamento de cursos e participantes com Spring Boot.  
+Tecnologias: Java, Spring Boot, PostgreSQL
+
+---
+
+**[Leads](https://github.com/MateusDBarros/Leads)**  
+Chatbot para coleta de leads usando Flask.  
+Tecnologias: Flask, PostgreSQL, HTML, CSS, JS
+</div>
+
+---
+
+<div align="center">
+<h2>Estatísticas do GitHub</h2>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MateusDBarros&show_icons=true&theme=radical&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDBarros&layout=compact&theme=radical"/>
+
+</div>
+
+---
+
+<div align="center">
+<h2>Contato</h2>
+
+<a href="mailto:mb685212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mateus-barros13"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+<p>Quer ver mais projetos?</p>
+<a href="https://meuportfolio.com"><strong>Visite meu portfólio pessoal</strong></a>
+</div>
+
+<!-- RODAPÉ ANIMADO -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer"/>
 ```
