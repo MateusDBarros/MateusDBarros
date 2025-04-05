@@ -37,7 +37,7 @@ Sou um desenvolvedor backend apaixonado por criar soluções eficientes, escalá
 
 ```bash
 > MateusBarros --help
-Backend Developer | Python | Django | Java | Spring Boot
+Developer | Python | Django | Java | Spring Boot
 
 > Skills --list
 [✔] APIs RESTful
@@ -45,6 +45,5 @@ Backend Developer | Python | Django | Java | Spring Boot
 [✔] Spring Data JPA
 [✔] PostgreSQL | SQLite | MySQL
 [✔] Git & GitHub
-[✔] Web scraping com BeautifulSoup
-[✔] Machine Learning básico com Scikit-Learn
-[✔] Curioso e faminto por novos desafios
+[✔] Data Science
+[✔] Machine Learning
