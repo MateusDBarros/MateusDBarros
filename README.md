@@ -36,9 +36,6 @@ Sou um desenvolvedor backend apaixonado por criar soluções eficientes, escalá
 ## 💻 Terminal Nerd
 
 ```bash
-> MateusBarros --help
-Developer | Python | Django | Java | Spring Boot
-
 > Skills --list
 [✔] APIs RESTful
 [✔] Django ORM
@@ -47,3 +44,4 @@ Developer | Python | Django | Java | Spring Boot
 [✔] Git & GitHub
 [✔] Data Science
 [✔] Machine Learning
+```
