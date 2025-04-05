@@ -12,9 +12,6 @@
 </div>
 
 
-<div align="center">
-<h2>Tecnologias que utilizo</h2>
-
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -24,7 +21,6 @@
 
 </div>
 
----
 
 <
 ## 💻 Terminal Nerd
