@@ -10,7 +10,7 @@
 <div align="center">
 <h1><img height="40" src="https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif"> Sobre mim</h1>
 </div>
----
+
 
 <div align="center">
 <h2>Tecnologias que utilizo</h2>
