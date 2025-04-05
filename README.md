@@ -92,8 +92,10 @@ Tecnologias: Flask, PostgreSQL, HTML, CSS, JS
 ---
 
 <div align="center">
-<p>Quer ver mais projetos?</p>
-<a href="https://meuportfolio.com"><strong>Visite meu portfólio pessoal</strong></a>
+<h2>Visitantes</h2>
+
+<p align="center"><img src="https://profile-counter.glitch.me/MateusDBarros/count.svg" /></p>
+
 </div>
 
 <!-- RODAPÉ ANIMADO -->
