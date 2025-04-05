@@ -1,9 +1,15 @@
+<!-- Banner no topo -->
+<p align="center">
+  <img src="./banner.png" alt="Banner Mateus Barros" />
+</p>
+
 # Olá, eu sou o Mateus 👋
 
 ## Sobre mim
-Backend Developer | Python | Data Science | Machine Learning Enthusiast  
-🚀 Atualmente focado em backend com **Django**, **Spring Boot** e **Flask**  
-📚 Sempre aprendendo sobre **Data Science**, **Machine Learning** e **Inteligência Artificial**
+Backend Developer | Python | Django | Java | Spring Boot  
+🎯 Foco em desenvolvimento backend robusto, com paixão por dados e IA  
+⚙️ Nerd tech com sede por aprendizado contínuo  
+🚀 Explorando o universo da programação com eficiência e um toque criativo
 
 ---
 
@@ -15,6 +21,26 @@ Backend Developer | Python | Data Science | Machine Learning Enthusiast
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 💻 Terminal Nerd
+
+```bash
+> MateusBarros --help
+Backend Developer | Python | Django | Java | Spring Boot
+
+> Skills --list
+[✔] APIs RESTful
+[✔] Django ORM
+[✔] Spring Data JPA
+[✔] PostgreSQL | SQLite | MySQL
+[✔] Git & GitHub
+[✔] Web scraping com BeautifulSoup
+[✔] Machine Learning básico com Scikit-Learn
+[✔] Curioso e faminto por novos desafios
+
+> exit
 
 ---
 
