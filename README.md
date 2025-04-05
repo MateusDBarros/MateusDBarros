@@ -54,8 +54,7 @@ Sou um desenvolvedor backend apaixonado por criar soluções eficientes, escalá
 
 **[bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)**  
 Coleta dados sobre países e capitais com Web Scraping e gera um relatório em Excel.  
-Tecnologias: Python, BeautifulSoup, Pandas  
-![bs4Pandas Demo](https://media.giphy.com/media/26xBqX5nDNNtmoj7C/giphy.gif)
+Tecnologias: Python, BeautifulSoup, Pandas 
 
 ---
 
