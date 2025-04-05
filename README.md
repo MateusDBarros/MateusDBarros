@@ -99,5 +99,3 @@ Tecnologias: Flask, PostgreSQL, HTML, CSS, JS
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:008F2F&height=120&section=footer"/>
 </div>
-```
-
