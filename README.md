@@ -1,33 +1,44 @@
-# Olá, eu sou Mateus
+# Olá, eu sou Mateus 👋
 
-<div style="display: inline_block"><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,java,spring,postgres,git" />
-  </a>
-</div>
+## 🚀 Tecnologias que eu uso
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Projetos em Destaque
-### DATA SCIENCE
-### [bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)
-Projeto que realiza web scraping para coletar dados de um site, extrair informações sobre países e suas capitais e armazená-las em um arquivo Excel. Após a coleta, o usuário pode pesquisar por um país ou capital interativamente.
 
+### Data Science
 
-### [Feels](https://github.com/MateusDBarros/Feels)
-Esta é uma API simples desenvolvida em Python utilizando FastAPI e a biblioteca Transformers da Hugging Face. A API recebe um texto em português e retorna uma análise de sentimentos (por exemplo, POSITIVE ou NEGATIVE) com uma pontuação de confiança.
+#### [bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)
+- **Descrição**: Realiza web scraping para coletar dados sobre países e suas capitais e os armazena em um arquivo Excel.
+- **Tecnologias**: Python, BeautifulSoup, Pandas, Excel
+- **Como rodar**: Clone o repositório e execute o script.
 
-### BACKEND
-### [Register API](https://github.com/MateusDBarros/Teste-Backend)
-API RESTful desenvolvida com **Spring Boot**, **JDBC** e **PostgreSQL**. Este projeto inclui 11 endpoints conectados ao banco de dados para gerenciar cursos, turmas e participantes.
+#### [Feels](https://github.com/MateusDBarros/Feels)
+- **Descrição**: API para análise de sentimentos de textos em português.
+- **Tecnologias**: Python, FastAPI, Hugging Face Transformers
+- **Como rodar**: Clone o repositório e execute o servidor FastAPI.
 
-### [Djando API]( https://github.com/MateusDBarros/Django)
-Este projeto é uma API RESTful desenvolvida com Django e Django REST Framework (DRF). Ele permite realizar operações CRUD (Create, Read, Update, Delete) para gerenciar um catálogo de livros. Criado para fins de estudo, este sistema demonstra a implementação de APIs com Django.
+### Backend
 
-### [Leads](https://github.com/MateusDBarros/Leads)
-Este projeto é uma API de Chatbot desenvolvida com Flask, integrada a um banco de dados PostgreSQL, e um frontend em HTML, CSS e JavaScript. O chatbot coleta informações de potenciais clientes (leads) e armazena no banco para posterior análise e contato.
+#### [Register API](https://github.com/MateusDBarros/Teste-Backend)
+- **Descrição**: API RESTful para gerenciar cursos, turmas e participantes.
+- **Tecnologias**: Java, Spring Boot, PostgreSQL
+- **Como rodar**: Clone o repositório e configure o banco de dados.
+
+#### [Leads](https://github.com/MateusDBarros/Leads)
+- **Descrição**: Chatbot API com Flask para coleta de leads.
+- **Tecnologias**: Flask, PostgreSQL, HTML, CSS, JavaScript
+- **Como rodar**: Clone o repositório e execute o servidor Flask.
+
+---
+
 ## 🌐 Contato
 
-<a href="https://www.linkedin.com/in/mateus-barros13" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:mb685212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[LinkedIn](https://www.linkedin.com/in/mateus-barros13) | [Gmail](mailto:mb685212@gmail.com)
