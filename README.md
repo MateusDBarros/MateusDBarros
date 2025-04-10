@@ -43,8 +43,8 @@ Tecnologias: Python, BeautifulSoup, Pandas
 
 ---
 
-**[Register API](https://github.com/MateusDBarros/Teste-Backend)**  
-API RESTful para gerenciamento de cursos e participantes com Spring Boot.  
+**[Register API](https://github.com/MateusDBarros/Feels)**  
+API para analisar reviews e comentarios, para gerar insights atraves de uma avaliação do comentário..  
 Tecnologias: Java, Spring Boot, PostgreSQL
 
 ---
