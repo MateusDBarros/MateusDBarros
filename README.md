@@ -43,9 +43,9 @@ Tecnologias: Python, BeautifulSoup, Pandas
 
 ---
 
-**[Register API](https://github.com/MateusDBarros/Feels)**  
+**[Feels](https://github.com/MateusDBarros/Feels)**  
 API para analisar reviews e comentarios, para gerar insights atraves de uma avaliação do comentário..  
-Tecnologias: Java, Spring Boot, PostgreSQL
+Tecnologias: Python
 
 ---
 
