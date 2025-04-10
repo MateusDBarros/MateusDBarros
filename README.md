@@ -51,7 +51,7 @@ Tecnologias: Java, Spring Boot, PostgreSQL
 
 **[Leads](https://github.com/MateusDBarros/Leads)**  
 Chatbot para coleta de leads usando Flask.  
-Tecnologias: Flask, PostgreSQL, HTML, CSS, JS
+Tecnologias: Python
 </div>
 
 ---
