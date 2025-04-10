@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff99&size=30&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Mateus+Barros;Sou+Desenvolvedor+Backend;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-
 </div>
 
 <div align="center">
