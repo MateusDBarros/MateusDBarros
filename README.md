@@ -51,7 +51,7 @@ Tecnologias: Python
 
 **[Leads](https://github.com/MateusDBarros/Leads)**  
 Chatbot para coleta de leads usando Flask.  
-Tecnologias: Python
+Tecnologias: Python, Flaks, PostgreSQL, HTML/CSS, Javascript
 </div>
 
 ---
