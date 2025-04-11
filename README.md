@@ -12,10 +12,10 @@
 
 Sou um desenvolvedor backend em transição para **Engenharia de Dados**, com interesse especial em:
 
-- Construção de **pipelines de dados** eficientes e automatizados
-- Modelagem e armazenamento de dados em bancos relacionais
-- Coleta, tratamento e transformação de dados com Python e Pandas
-- Aprendizado contínuo de ferramentas como **Apache Spark**
+- Construção de **pipelines de dados** (ETL/ELT)
+- Modelagem e armazenamento de dados em **Data Warehouses**
+- Análise e visualização de dados com **Power BI**
+- Aprendizado de ferramentas de big data e cloud, como **Apache Spark** e **AWS**
 
 <div align="center">
 <h3>🛠️ Tecnologias e Ferramentas</h3>
@@ -26,6 +26,8 @@ Sou um desenvolvedor backend em transição para **Engenharia de Dados**, com in
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img height="50" src="https://img.shields.io/badge/Power%20BI-FA9C1E?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img height="50" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 </div>
 
@@ -36,9 +38,11 @@ Sou um desenvolvedor backend em transição para **Engenharia de Dados**, com in
 [✔] Python para manipulação de dados
 [✔] Pandas & Web Scraping
 [✔] SQL (PostgreSQL, SQLite, MySQL)
-[✔] Projetos com foco em ETL
+[✔] ETL com foco em automação
+[✔] Power BI para visualização
 [✔] Machine Learning (estudos iniciais)
-[✔] Desenvolvimento de APIs
+[✔] Backend com Django e Flask
+
 ```
 </div>
 
@@ -67,30 +71,6 @@ Pipeline de dados simples que utiliza web scraping para coletar dados de países
 Tecnologias: Python, BeautifulSoup, Pandas 
 
 ---
-
-<div align="center"> <h2>🚀 Roadmap de Aprendizado em Engenharia de Dados</h2>
-📌 Objetivo: Dominar o ciclo completo de dados, da coleta à visualização.
-
- Python para manipulação e automação
-
- Web scraping com BeautifulSoup
-
- SQL e bancos relacionais
-
- Modelagem dimensional e Data Warehouses
-
- Apache Spark para processamento distribuído
-
- Apache Airflow para orquestração de pipelines
-
- AWS (S3, Glue, Redshift) para infraestrutura de dados
-
- dbt para transformação de dados em larga escala
-
- Projetos reais com Power BI
-
-</div>
-
 </div>
 
 <div align="center"> <h2>📈 GitHub Stats</h2> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MateusDBarros&show_icons=true&theme=radical&count_private=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDBarros&layout=compact&theme=radical"/> </div>
