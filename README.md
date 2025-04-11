@@ -75,19 +75,11 @@ Tecnologias: Python, BeautifulSoup, Pandas
 
 <div align="center">
   
-<<div align="center"> <h2>📬 Contato</h2>
+<div align="center"> <h2>📬 Contato</h2>
 <a href="mailto:mb685212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/mateus-barros13"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 ---
 
-<div align="center">
-<h2>Visitantes</h2>
-
-<p align="center"><img src="https://profile-counter.glitch.me/MateusDBarros/count.svg" /></p>
-
-</div>
-<div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:008F2F&height=120&section=footer"/>
-</div>
+<div align="center"> <h2>👀 Visitantes</h2> <p align="center"><img src="https://profile-counter.glitch.me/MateusDBarros/count.svg" /></p> </div> <div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:008F2F&height=120&section=footer"/> </div>
