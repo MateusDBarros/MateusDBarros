@@ -27,7 +27,7 @@ Sou um desenvolvedor backend em transição para **Engenharia de Dados**, com in
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 ![Power BI] (https://img.shields.io/badge/Power%20BI-222222?style=flat&logo=powerbi&logoColor=yellow)
-![AWS] (https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=orange)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 </div>
