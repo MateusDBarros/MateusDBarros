@@ -42,12 +42,10 @@ Sou um desenvolvedor backend em transição para **Engenharia de Dados**, com in
 ```
 </div>
 
-<div align="center">
-<h2>Projetos em destaque</h2>
-
-**[bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)**  
-Coleta dados sobre países e capitais com Web Scraping e gera um relatório em Excel.  
-Tecnologias: Python, BeautifulSoup, Pandas 
+<div align="center"> <h2>📊 Projetos em Dados</h2>
+bs4Pandas
+Pipeline de dados simples que utiliza web scraping para coletar dados de países e gera um relatório em Excel.
+Tecnologias: Python, BeautifulSoup, Pandas
 
 ---
 
