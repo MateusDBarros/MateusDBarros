@@ -47,21 +47,19 @@ Sou um desenvolvedor backend em transição para **Engenharia de Dados**, com in
 API que analisa sentimentos em reviews e comentários, gerando insights úteis para produtos.  
 Tecnologias: Python, análise textual
 
-
-
 ---
 
 **[Leads](https://github.com/MateusDBarros/Leads)**  
 Chatbot para coleta de leads, com backend em Flask e armazenamento em banco relacional.  
 Tecnologias: Python, Flaks, PostgreSQL, HTML/CSS, Javascript
-</div>
+
 
 ---
 
 **[bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)**  
 Pipeline de dados simples que utiliza web scraping para coletar dados de países e gera um relatório em Excel.
 Tecnologias: Python, BeautifulSoup, Pandas 
-
+</div>
 ---
 
 <div align="center"> <h2>📈 GitHub Stats</h2> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MateusDBarros&show_icons=true&theme=radical&count_private=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDBarros&layout=compact&theme=radical"/> </div>
