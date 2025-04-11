@@ -46,6 +46,9 @@ Sou um desenvolvedor backend em transição para **Engenharia de Dados**, com in
 </div>
 
 <div align="center">
+
+---
+
 **[Feels](https://github.com/MateusDBarros/Feels)**  
 API que analisa sentimentos em reviews e comentários, gerando insights úteis para produtos.  
 Tecnologias: Python, análise textual
