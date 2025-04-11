@@ -67,6 +67,30 @@ Pipeline de dados simples que utiliza web scraping para coletar dados de países
 Tecnologias: Python, BeautifulSoup, Pandas 
 
 ---
+
+<div align="center"> <h2>🚀 Roadmap de Aprendizado em Engenharia de Dados</h2>
+📌 Objetivo: Dominar o ciclo completo de dados, da coleta à visualização.
+
+ Python para manipulação e automação
+
+ Web scraping com BeautifulSoup
+
+ SQL e bancos relacionais
+
+ Modelagem dimensional e Data Warehouses
+
+ Apache Spark para processamento distribuído
+
+ Apache Airflow para orquestração de pipelines
+
+ AWS (S3, Glue, Redshift) para infraestrutura de dados
+
+ dbt para transformação de dados em larga escala
+
+ Projetos reais com Power BI
+
+</div>
+
 </div>
 
 <div align="center"> <h2>📈 GitHub Stats</h2> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MateusDBarros&show_icons=true&theme=radical&count_private=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDBarros&layout=compact&theme=radical"/> </div>
