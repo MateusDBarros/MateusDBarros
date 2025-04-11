@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:008F2F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff99&size=30&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Mateus+Barros;Sou+Desenvolvedor+Backend;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff99&size=30&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Mateus+Barros;Sou+Engenheiro+de+Dados+em+formação;Apaixonado+por+dados,+tecnologia+e+automação!)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,13 +10,22 @@
 <h1><img height="40" src="https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif"> Sobre mim</h1>
 </div>
 
+Sou um desenvolvedor backend em transição para **Engenharia de Dados**, com interesse especial em:
+
+- Construção de **pipelines de dados** eficientes e automatizados
+- Modelagem e armazenamento de dados em bancos relacionais
+- Coleta, tratamento e transformação de dados com Python e Pandas
+- Aprendizado contínuo de ferramentas como **Apache Spark**
+
 <div align="center">
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<h3>🛠️ Tecnologias e Ferramentas</h3>
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
 </div>
 
@@ -24,13 +33,12 @@
 
 ```bash
 > Skills --list
-[✔] APIs RESTful
-[✔] Django ORM
-[✔] Spring Data JPA
-[✔] PostgreSQL | SQLite | MySQL
-[✔] Git & GitHub
-[✔] Data Science
-[✔] Machine Learning
+[✔] Python para manipulação de dados
+[✔] Pandas & Web Scraping
+[✔] SQL (PostgreSQL, SQLite, MySQL)
+[✔] Projetos com foco em ETL
+[✔] Machine Learning (estudos iniciais)
+[✔] Desenvolvimento de APIs
 ```
 </div>
 
