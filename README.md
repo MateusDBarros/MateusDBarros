@@ -33,6 +33,7 @@ Sou um desenvolvedor backend em transição para **Engenharia de Dados**, com in
 
 ```bash
 > Skills --list
+[✔] Spring Boot com Java e Django com Python para Backend
 [✔] Python para manipulação de dados
 [✔] Pandas & Web Scraping
 [✔] SQL (PostgreSQL, SQLite, MySQL)
