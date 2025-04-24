@@ -10,9 +10,10 @@
 <h1><img height="40" src="https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif"> Sobre mim</h1>
 </div>
 
-Sou um desenvolvedor backend em transição para **Engenharia de Dados**, com interesse especial em:
+Sou um desenvolvedor de Software com foco em  **Engenharia de Dados** e **Backend**, com interesse especial em:
 
 - Construção de **pipelines de dados** (ETL/ELT)
+- Criação e Manutenção de Sistemas Backend
 - Modelagem e armazenamento de dados em **Data Warehouses**
 - Análise e visualização de dados com **Power BI**
 - Aprendizado de ferramentas de big data e cloud, como **Apache Spark** e **AWS**
