@@ -41,12 +41,10 @@ Sou um desenvolvedor de Software com foco em  **Engenharia de Dados** e **Backen
 [✔] ETL com foco em automação
 [✔] Power BI para visualização
 [✔] Machine Learning (estudos iniciais)
-[✔] Backend com Django e Flask
-
 ```
 </div>
 
-<div align="center"> <h2>📊 Projetos em Dados</h2>
+<div align="center"> <h2>📊 Projetos em Destaque</h2>
 </div>
 
 <div align="center">
@@ -59,10 +57,16 @@ Tecnologias: Python, análise textual
 
 ---
 
-**[Leads](https://github.com/MateusDBarros/Leads)**  
+**[Watcher](https://github.com/MateusDBarros/Watcher)**  
 Chatbot para coleta de leads, com backend em Flask e armazenamento em banco relacional.  
 Tecnologias: Python, Flaks, PostgreSQL, HTML/CSS, Javascript
 
+
+---
+
+**[Leads](https://github.com/MateusDBarros/Leads)**  
+Gerenciamento de Finanças Pessoais, com backend em Spring Boot e armazenamento em banco relacional, leitura e processamento de dados com Pandas.  
+Tecnologias: Java, Spring Boot, Python, PostgreSQL, Pandas
 
 ---
 
