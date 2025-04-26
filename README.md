@@ -57,16 +57,16 @@ Tecnologias: Python, análise textual
 
 ---
 
-**[Watcher](https://github.com/MateusDBarros/Watcher)**  
-Chatbot para coleta de leads, com backend em Flask e armazenamento em banco relacional.  
-Tecnologias: Python, Flaks, PostgreSQL, HTML/CSS, Javascript
+**[Smart Place](https://github.com/MateusDBarros/Smart_Place)**  
+Este projeto simula a gestão e análise de pedidos de uma padaria, integrando práticas de backend com Django, persistência com PostgreSQL e análise de dados com Python.
+Tecnologias: Python, Django, PostgreSQL, Pandas, Matplotlib
 
 
 ---
 
 **[Leads](https://github.com/MateusDBarros/Leads)**  
-Gerenciamento de Finanças Pessoais, com backend em Spring Boot e armazenamento em banco relacional, leitura e processamento de dados com Pandas.  
-Tecnologias: Java, Spring Boot, Python, PostgreSQL, Pandas
+Chatbot para coleta de leads, com backend em Flask e armazenamento em banco relacional.   de dados com Pandas.  
+Tecnologias: Python, Flaks, PostgreSQL, HTML/CSS, Javascript
 
 ---
 
