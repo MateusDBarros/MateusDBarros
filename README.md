@@ -61,7 +61,6 @@ Tecnologias: Python, análise textual
 Este projeto simula a gestão e análise de pedidos de uma padaria, integrando práticas de backend com Django, persistência com PostgreSQL e análise de dados com Python.
 Tecnologias: Python, Django, PostgreSQL, Pandas, Matplotlib
 
-
 ---
 
 **[Leads](https://github.com/MateusDBarros/Leads)**  
