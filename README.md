@@ -53,24 +53,28 @@ Sou um desenvolvedor de Software com foco em  **Engenharia de Dados** e **Backen
 
 **[Feels](https://github.com/MateusDBarros/Feels)**  
 API que analisa sentimentos em reviews e comentários, gerando insights úteis para produtos.  
+
 Tecnologias: Python, análise textual
 
 ---
 
 **[Smart Place](https://github.com/MateusDBarros/Smart_Place)**  
 Este projeto simula a gestão e análise de pedidos de uma padaria, integrando práticas de backend com Django, persistência com PostgreSQL e análise de dados com Python.
+
 Tecnologias: Python, Django, PostgreSQL, Pandas, Matplotlib
 
 ---
 
 **[Leads](https://github.com/MateusDBarros/Leads)**  
-Chatbot para coleta de leads, com backend em Flask e armazenamento em banco relacional.   de dados com Pandas.  
+Chatbot para coleta de leads, com backend em Flask e armazenamento em banco relacional.
+
 Tecnologias: Python, Flaks, PostgreSQL, HTML/CSS, Javascript
 
 ---
 
 **[bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)**  
 Pipeline de dados simples que utiliza web scraping para coletar dados de países e gera um relatório em Excel.
+
 Tecnologias: Python, BeautifulSoup, Pandas 
 
 ---
