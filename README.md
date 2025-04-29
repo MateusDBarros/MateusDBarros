@@ -10,7 +10,6 @@
 <h1><img height="40" src="https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif"> Sobre mim</h1>
 </div>
 
-![Badge](https://img.shields.io/badge/Engenharia%20de%20Dados-Em%20formação-brightgreen)
 
 
 Sou um desenvolvedor em formação com foco em Engenharia de Dados e Backend. Me interesso por automação de processos, modelagem de dados e soluções escaláveis que integrem análise, integração e visualização de dados.
