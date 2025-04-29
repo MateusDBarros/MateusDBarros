@@ -10,7 +10,13 @@
 <h1><img height="40" src="https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif"> Sobre mim</h1>
 </div>
 
-Sou um desenvolvedor de Software com foco em  **Engenharia de Dados** e **Backend**, com interesse especial em:
+![Badge](https://img.shields.io/badge/Engenharia%20de%20Dados-Em%20formação-brightgreen)
+
+
+Sou um desenvolvedor em formação com foco em Engenharia de Dados e Backend. Me interesso por automação de processos, modelagem de dados e soluções escaláveis que integrem análise, integração e visualização de dados.
+
+Atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC e me aprofundo em ferramentas como Spring Boot, Django, Pandas, SQL, Power BI e Apache Spark.
+
 
 - Construção de **pipelines de dados** (ETL/ELT)
 - Criação e Manutenção de Sistemas Backend
@@ -35,7 +41,7 @@ Sou um desenvolvedor de Software com foco em  **Engenharia de Dados** e **Backen
 ```bash
 > Skills --list
 [✔] Spring Boot com Java e Django com Python para Backend
-[✔] Python para manipulação de dados
+[✔] Python com Pandas para manipulação e análise de dados
 [✔] Pandas & Web Scraping
 [✔] SQL (PostgreSQL, SQLite, MySQL)
 [✔] ETL com foco em automação
@@ -49,19 +55,23 @@ Sou um desenvolvedor de Software com foco em  **Engenharia de Dados** e **Backen
 
 <div align="center">
 
-
-
-**[Feels](https://github.com/MateusDBarros/Feels)**  
-API que analisa sentimentos em reviews e comentários, gerando insights úteis para produtos.  
-
-Tecnologias: Python, análise textual
-
----
-
 **[Smart Place](https://github.com/MateusDBarros/Smart_Place)**  
 Este projeto simula a gestão e análise de pedidos de uma padaria, integrando práticas de backend com Django, persistência com PostgreSQL e análise de dados com Python.
 
 Tecnologias: Python, Django, PostgreSQL, Pandas, Matplotlib
+
+---
+
+**[Feels](https://github.com/MateusDBarros/Feels)**  
+API com FastAPI que classifica automaticamente sentimentos em comentários (positivo/negativo), útil para análise de feedbacks em SACs e produtos. 
+
+Tecnologias: Python, análise textual
+
+---
+**[bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)**  
+Pipeline de dados simples que utiliza web scraping para coletar dados de países e gera um relatório em Excel.
+
+Tecnologias: Python, BeautifulSoup, Pandas 
 
 ---
 
@@ -72,12 +82,7 @@ Tecnologias: Python, Flaks, PostgreSQL, HTML/CSS, Javascript
 
 ---
 
-**[bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)**  
-Pipeline de dados simples que utiliza web scraping para coletar dados de países e gera um relatório em Excel.
 
-Tecnologias: Python, BeautifulSoup, Pandas 
-
----
 </div>
 
 <div align="center"> <h2>📈 GitHub Stats</h2> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MateusDBarros&show_icons=true&theme=radical&count_private=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDBarros&layout=compact&theme=radical"/> </div>
