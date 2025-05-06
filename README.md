@@ -57,6 +57,13 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC e venho me aprofundando e
 </div>
 
 <div align="center">
+  
+**[Smart Fridge](https://github.com/MateusDBarros/Smart_Fridge)**  
+API REST para controle inteligente de alimentos com foco em testes e arquitetura limpa.
+
+
+Tecnologias: Java, Spring Boot, JPA, Docker
+---
 
 **[Smart Place](https://github.com/MateusDBarros/Smart_Place)**  
 Este projeto simula a gestão e análise de pedidos de uma padaria, integrando práticas de backend com Django, persistência com PostgreSQL e análise de dados com Python.
