@@ -2,7 +2,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:008F2F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff99&size=30&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Mateus+Barros;Sou+Engenheiro+de+Dados+em+formação;Apaixonado+por+dados,+tecnologia+e+automação!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff99&size=30&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Mateus+Barros;Desenvolvedor+Back-end+e+de+Dados+em+formação;Apaixonado+por+tecnologia,+automação+e+dados!)](https://git.io/typing-svg)
+
 
 </div>
 
