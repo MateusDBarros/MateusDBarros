@@ -13,26 +13,24 @@
 
 
 
-Sou um desenvolvedor em formação com foco em Engenharia de Dados e Backend. Me interesso por automação de processos, modelagem de dados e soluções escaláveis que integrem análise, integração e visualização de dados.
+Sou um desenvolvedor em formação com foco em Engenharia de Dados e Backend. Gosto de criar soluções que automatizam tarefas, tratam grandes volumes de dados e entregam insights de forma eficiente.
 
-Atualmente estudo Análise e Desenvolvimento de Sistemas na FATEC e me aprofundo em ferramentas como Spring Boot, Django, Pandas, SQL, Power BI e Apache Spark.
-
+Estudo Análise e Desenvolvimento de Sistemas na FATEC e venho me aprofundando em tecnologias como Spring Boot, Django, Pandas, SQL, Power BI e Apache Spark.
 
 - Construção de **pipelines de dados** (ETL/ELT)
-- Criação e Manutenção de Sistemas Backend
+- Criação de **APIs RESTful** e **sistemas backend**
 - Modelagem e armazenamento de dados em **Data Warehouses**
-- Análise e visualização de dados com **Power BI**
-- Aprendizado de ferramentas de big data e cloud, como **Apache Spark** e **AWS**
+- Análise e visualização com **Power BI**
+- Aprendizado contínuo em **Big Data** e **nuvem (AWS, Spark)**
+
 
 <div align="center">
 <h3>🛠️ Tecnologias e Ferramentas</h3>
 
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+
 
 </div>
 
