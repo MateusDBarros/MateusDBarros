@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff99&size=30&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Mateus+Barros;Desenvolvedor+Back-end+e+de+Dados+em+formação;Apaixonado+por+tecnologia,+automação+e+dados!)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-Backend%20|%20Data%20Engineering-green?style=for-the-badge">
+</p>
+
 
 </div>
 
