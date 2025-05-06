@@ -42,13 +42,14 @@ Estudo Análise e Desenvolvimento de Sistemas na FATEC e venho me aprofundando e
 
 ```bash
 > Skills --list
-[✔] Spring Boot com Java e Django com Python para Backend
-[✔] Python com Pandas para manipulação e análise de dados
-[✔] Pandas & Web Scraping
-[✔] SQL (PostgreSQL, SQLite, MySQL)
-[✔] ETL com foco em automação
-[✔] Power BI para visualização
-[✔] Machine Learning (estudos iniciais)
+[✔] Java (Spring Boot) e Python (Django, Flask, FastAPI) para APIs RESTful
+[✔] SQL com PostgreSQL, MySQL e SQLite
+[✔] Web scraping com BeautifulSoup e automação de dados com Pandas
+[✔] ETL/ELT com foco em pipelines de dados
+[✔] Docker e Git para versionamento e deploy
+[✔] Power BI para dashboards e relatórios
+[✔] Estudo de Machine Learning com Scikit-learn
+
 ```
 </div>
 
