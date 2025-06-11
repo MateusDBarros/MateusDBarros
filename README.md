@@ -14,12 +14,12 @@
 
 ## <div align="center">Sobre Mim</div>
 
-Sou um desenvolvedor back-end em formação, com grande interesse por engenharia de dados e automação.  
-Gosto de criar **sistemas robustos**, **pipelines eficientes** e **API's bem estruturadas**, que impactem positivamente processos e decisões.
+Sou um desenvolvedor de Software, com projetos em criação de sistemas e engenharia de dados e automação.  
+Gosto de criar **sistemas**, **pipelines eficientes** e **API's bem estruturadas**, que impactem positivamente processos e decisões.
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas (FATEC)** e tenho me aprofundado em tecnologias como:
 
-- **Spring Boot**, **Django**, **FastAPI**
+- **Spring Boot**, **Django**, **FastAPI**, **PHP**, **JavaScript**
 - **SQL e PostgreSQL**
 - **Power BI** e **Pandas**
 - **Docker** e **Git**
