@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:008F2F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff99&size=30&center=true&vCenter=true&width=1000&lines=Olá,+sou+Mateus+Barros;Desenvolvedor+Back-end+e+Engenheiro+de+Dados+em+formação;Automação,+API's,+e+dados+me+movem!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff99&size=30&center=true&vCenter=true&width=1000&lines=Olá,+sou+Mateus+Barros;Desenvolvedor+de+Software+e+Engenheiro+de+Dados+em+formação;Automação,+API's,+e+dados+me+movem!)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Internships-Backend%20|%20Data%20Engineering-green?style=for-the-badge">
