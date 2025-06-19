@@ -12,7 +12,7 @@
 
 ---
 
-##<div align="center">About Me</div>
+<div align="center">About Me</div>
 
 I'm a Software Developer and Systems Analysis student (FATEC) passionate about building scalable solutions using modern technologies.
 
@@ -28,7 +28,7 @@ Currently exploring:
 
 ---
 
-##<div align="center">🚀 Tech Stack</div>
+<div align="center">🚀 Tech Stack</div>
 
 <div align="center">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
