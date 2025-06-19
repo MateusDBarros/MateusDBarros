@@ -65,6 +65,7 @@ Currently exploring:
 
 
 **BeeTracker
+
 Application tracker with personalized job tracking.
 NestJS, MongoDB, Docker, HTML/CSS
 
