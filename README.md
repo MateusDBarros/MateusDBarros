@@ -57,76 +57,34 @@ Currently exploring:
 ```
 ---
 
-<div align="center">🚀 Tech Stack</div>
 
-<div align="center">
-
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-</div>
-
----
-
-## <div align="center">📂 Habilidades</div>
-
-```bash
-> Skills --list
-[✔] APIs RESTful com Spring Boot, Django, FastAPI e Flask
-[✔] Banco de dados: PostgreSQL, MySQL, SQLite
-[✔] Pipelines de dados e automações com Pandas e Web Scraping (BeautifulSoup)
-[✔] Criação de dashboards e relatórios com Power BI
-[✔] Containers e deploy com Docker
-[✔] Versionamento com Git e GitHub
-[✔] Iniciação em Machine Learning com Scikit-learn
-
-```
-</div>
-
-<div align="center"> <h2>📊 Projetos em Destaque</h2>
+<div align="center"> <h2>📊 Projects</h2>
 </div>
 
 <div align="center">
-  
+
+
+**BeeTracker
+Application tracker with personalized job tracking.
+NestJS, MongoDB, Docker, HTML/CSS
+
+--- 
+
 **[Smart Fridge](https://github.com/MateusDBarros/Smart_Fridge)**  
-API REST para controle inteligente de alimentos com foco em testes e arquitetura limpa.
-
-Tecnologias: Java, Spring Boot, JPA, Docker
-
----
-
-**[Smart Place](https://github.com/MateusDBarros/Smart_Place)**  
-Este projeto simula a gestão e análise de pedidos de uma padaria, integrando práticas de backend com Django, persistência com PostgreSQL e análise de dados com Python.
-
-Tecnologias: Python, Django, PostgreSQL, Pandas, Matplotlib
+Application tracker with personalized job tracking.
+NestJS, MongoDB, Docker, HTML/CSS
 
 ---
 
 **[Feels](https://github.com/MateusDBarros/Feels)**  
-API com FastAPI que classifica automaticamente sentimentos em comentários (positivo/negativo), útil para análise de feedbacks em SACs e produtos. 
-
-Tecnologias: Python, análise textual
-
----
-**[bs4Pandas](https://github.com/MateusDBarros/bs4Pandas)**  
-Pipeline de dados simples que utiliza web scraping para coletar dados de países e gera um relatório em Excel.
-
-Tecnologias: Python, BeautifulSoup, Pandas 
+Sentiment classifier for product reviews and feedback.
+Python, FastAPI, Text Processing
 
 ---
 
 **[Leads](https://github.com/MateusDBarros/Leads)**  
-Chatbot para coleta de leads, com backend em Flask e armazenamento em banco relacional.
-
-Tecnologias: Python, Flaks, PostgreSQL, HTML/CSS, Javascript
+Lead collection chatbot with PostgreSQL backend.
+Python, Flask, PostgreSQL, HTML/CSS
 
 ---
 
@@ -139,11 +97,11 @@ Tecnologias: Python, Flaks, PostgreSQL, HTML/CSS, Javascript
 
 <div align="center">
   
-<div align="center"> <h2>📬 Contato</h2>
+<div align="center"> <h2>📬 Contact</h2>
 <a href="mailto:mb685212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/mateus-barros13"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 ---
 
-<div align="center"> <h2>👀 Visitantes</h2> <p align="center"><img src="https://profile-counter.glitch.me/MateusDBarros/count.svg" /></p> </div> <div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:008F2F&height=120&section=footer"/> </div>
+<div align="center"> <h2>👀 Visitors</h2> <p align="center"><img src="https://profile-counter.glitch.me/MateusDBarros/count.svg" /></p> </div> <div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:008F2F&height=120&section=footer"/> </div>
