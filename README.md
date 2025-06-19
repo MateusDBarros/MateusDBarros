@@ -45,7 +45,7 @@ Currently exploring:
 
 ---
 
-##<div align="center">📂 Skills</div>
+<div align="center">📂 Skills</div>
 
 ```bash
 > Skills --list
@@ -57,7 +57,7 @@ Currently exploring:
 ```
 ---
 
-## <div align="center">🚀 Tech Stack</div>
+<div align="center">🚀 Tech Stack</div>
 
 <div align="center">
 
