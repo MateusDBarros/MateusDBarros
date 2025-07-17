@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:008F2F&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F62FE,100:0043CE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff99&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mateus+Barros;Back-End+and+Fullstack+Developer;Passionate+about+Automation,+APIs+and+Data!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0F62FE&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mateus+Barros;Data+Engineering+Intern+%7C+Backend+Developer;Passionate+about+ETL,+Data+Pipelines+and+Automation)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Internships-Backend%20%7C%20Fullstack-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Data%20Engineering%20%7C%20Backend-blue?style=for-the-badge&logo=ibm&logoColor=white">
 </p>
 
 </div>
