@@ -50,10 +50,13 @@ As a freelancer, I’ve worked on real-world applications involving **process au
 ```bash
 > Skills --list
 [✔] RESTful APIs with Spring Boot, NestJS, Django, FastAPI, Flask
-[✔] Databases: PostgreSQL, MySQL, SQLite, MongoDB
-[✔] Automation and pipelines using Pandas and BeautifulSoup
+[✔] SQL querying and data modeling with PostgreSQL, MySQL, SQLite
+[✔] Data manipulation and analysis using Pandas and NumPy
+[✔] Building ETL pipelines with Python and SQLAlchemy
+[✔] Dashboard creation using Power BI and Excel
 [✔] Containerization and deployment with Docker
 [✔] Version control with Git and GitHub
+
 ```
 ---
 
