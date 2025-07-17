@@ -11,20 +11,16 @@
 </div>
 
 ---
+## 🧠 About Me
 
-<div align="center">About Me</div>
+I'm a Systems Analysis student at FATEC and a passionate problem solver who started in back-end development and has evolved into the world of **data engineering**.
 
-I'm a Software Developer and Systems Analysis student (FATEC) passionate about building scalable solutions using modern technologies.
+As a freelancer, I’ve worked on real-world projects involving:
+- Data pipelines (ETL)
+- Data automation and APIs
+- Backend systems for client-facing products
 
-While I started in back-end development, my recent interest and work have been moving toward **Data Engineering**, with a focus on building **ETL pipelines**, handling **data quality**, and working with **large-scale datasets** using **Python**, **SQL**, and **Power BI**.
-
-As a freelancer, I’ve worked on real-world applications involving **process automation**, **REST APIs**, and **data workflows**.
-
-- Pandas, NumPy, Matplotlib
-- SQL (PostgreSQL, MySQL), SQLite
-- Power BI, Excel (Advanced)
-- Docker, Git
-- Java, Spring Boot, Django, Flask
+Currently, I'm an incoming **Data Engineering intern at IBM**, focused on delivering efficient, scalable solutions using **Python**, **SQL**, and **Power BI**.
 
 ---
 
