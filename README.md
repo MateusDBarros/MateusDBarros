@@ -16,15 +16,15 @@
 
 I'm a Software Developer and Systems Analysis student (FATEC) passionate about building scalable solutions using modern technologies.
 
-As a freelancer, I've worked on real-world applications involving **back-end development**, **REST APIs**, **process automation**, and **data pipelines**.
+While I started in back-end development, my recent interest and work have been moving toward **Data Engineering**, with a focus on building **ETL pipelines**, handling **data quality**, and working with **large-scale datasets** using **Python**, **SQL**, and **Power BI**.
 
-Currently exploring:
+As a freelancer, I’ve worked on real-world applications involving **process automation**, **REST APIs**, and **data workflows**.
 
-- **Spring Boot**, **NestJS**, **Django**, **FastAPI**, **PHP**
-- **PostgreSQL**, **MySQL**, **MongoDB**
-- **Python (Pandas, Matplotlib, BeautifulSoup)**
-- **Docker**, **Git**,
-- Concepts like **ETL**, **Clean Architecture**, **Production Deploy**
+- Pandas, NumPy, Matplotlib
+- SQL (PostgreSQL, MySQL), SQLite
+- Power BI, Excel (Advanced)
+- Docker, Git
+- Java, Spring Boot, Django, Flask
 
 ---
 
