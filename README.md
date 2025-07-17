@@ -24,36 +24,37 @@ Currently, I'm an incoming **Data Engineering intern at IBM**, focused on delive
 
 ---
 
-<div align="center">🚀 Tech Stack</div>
+
+## ⚙️ Tech Stack
 
 <div align="center">
+
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
 </div>
 
 ---
 
-<div align="center">📂 Skills</div>
+## 📂 Skills
 
 ```bash
 > Skills --list
-[✔] RESTful APIs with Spring Boot, NestJS, Django, FastAPI, Flask
-[✔] SQL querying and data modeling with PostgreSQL, MySQL, SQLite
-[✔] Data manipulation and analysis using Pandas and NumPy
-[✔] Building ETL pipelines with Python and SQLAlchemy
-[✔] Dashboard creation using Power BI and Excel
-[✔] Containerization and deployment with Docker
-[✔] Version control with Git and GitHub
-
+[✔] Building ETL pipelines with Python (Pandas, SQLAlchemy)
+[✔] Data analysis and reporting with Power BI and Excel
+[✔] SQL querying (PostgreSQL, MySQL, SQLite)
+[✔] Backend APIs with Spring Boot, NestJS, FastAPI
+[✔] Containerization with Docker
+[✔] Git version control and GitHub collaboration
 ```
+
 ---
 
 
