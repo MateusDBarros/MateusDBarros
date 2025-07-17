@@ -64,16 +64,9 @@ Currently, I'm an incoming **Data Engineering intern at IBM**, focused on delive
 <div align="center">
 
 
-BeeTracker
-
-Application tracker with personalized job tracking.
-NestJS, MongoDB, Docker, HTML/CSS
-
---- 
-
-**[Smart Fridge](https://github.com/MateusDBarros/Smart_Fridge)**  
-Application tracker with personalized job tracking.
-NestJS, MongoDB, Docker, HTML/CSS
+**[ETL Pipeline](https://github.com/MateusDBarros/etl_pipeline)**  
+Script written in python using pandas, excel and matplotlib where I Extract and Clean the data, Transform and Load into another Excel file, ready to be used for powerBi dashboard, following Clean Code and Market Standarts
+Python, Pandas, Excel, Matplotlib, Power Bi
 
 ---
 
@@ -82,6 +75,13 @@ Sentiment classifier for product reviews and feedback.
 Python, FastAPI, Text Processing
 
 ---
+
+BeeTracker
+
+Application tracker with personalized job tracking.
+Java, Spring Boot, Docker, Javascript, Postgresql
+
+--- 
 
 **[Leads](https://github.com/MateusDBarros/Leads)**  
 Lead collection chatbot with PostgreSQL backend.
