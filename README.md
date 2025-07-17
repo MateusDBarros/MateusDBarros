@@ -1,14 +1,13 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F62FE,100:0043CE&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0F62FE&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mateus+Barros;Data+Engineering+Intern+%7C+Backend+Developer;Passionate+about+ETL,+Data+Pipelines+and+Automation)](https://git.io/typing-svg)
-
+<h1 align="center">👋 Mateus Barros</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Data%20Engineering%20%7C%20Backend-blue?style=for-the-badge&logo=ibm&logoColor=white">
+  <b>Data Engineering Intern @ IBM | Back-End Developer</b><br>
+  Passionate about ETL, Data Automation and Scalable Pipelines
 </p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Data%20Projects-blue?style=for-the-badge&logo=ibm&logoColor=white">
+  <img src="https://img.shields.io/badge/Tech-Focused%20on%20Python%2C%20SQL%2C%20Power%20BI-0F62FE?style=for-the-badge">
+</p>
 
 ---
 ## 🧠 About Me
