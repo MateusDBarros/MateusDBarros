@@ -1,6 +1,6 @@
-<h1 align="center">👋 Mateus de Barros</h1>
+<h1 align="center">👋 MateusBarros</h1>
 <p align="center">
-  <b>Data Engineering Intern | Back-End Developer</b><br>
+  <b>Data Engineering Intern at @IBM | Back-End Developer</b><br>
   Passionate about ETL, Data Automation and Scalable Pipelines
 </p>
 
