@@ -105,4 +105,9 @@ Python, Flask, PostgreSQL, HTML/CSS
 
 ---
 
-<div align="center"> <h2>👀 Visitors</h2> <p align="center"><img src="https://profile-counter.glitch.me/MateusDBarros/count.svg" /></p> </div> <div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:008F2F&height=120&section=footer"/> </div>
+<div align="center">
+  <h2>👀 Visitors</h2>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=MateusDBarros&color=0E9443" alt="Profile views" />
+  </p>
+</div>
