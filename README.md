@@ -111,4 +111,3 @@ Python, Flask, PostgreSQL, HTML/CSS
     <img src="https://komarev.com/ghpvc/?username=MateusDBarros&color=0E9443" alt="Profile views" />
   </p>
 </div>
-// commit diario 1
