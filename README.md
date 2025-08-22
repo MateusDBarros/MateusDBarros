@@ -1,6 +1,6 @@
 <h1 align="center">👋 MateusBarros</h1>
 <p align="center">
-  <b>Data Engineering Intern at @IBM | Back-End Developer</b><br>
+  <b>Software & Data Engineering Intern at @IBM | Back-End Developer</b><br>
   Passionate about ETL, Data Automation and Scalable Pipelines
 </p>
 
@@ -12,14 +12,14 @@
 ---
 ## 🧠 About Me
 
-I'm a Systems Analysis student at FATEC and a passionate problem solver who started in back-end development and has evolved into the world of **data engineering**.
+I'm a Systems Analysis student at FATEC and a passionate problem solver who started in **back-end development** and has evolved into the world of **data engineering**.
 
 As a freelancer, I’ve worked on real-world projects involving:
 - Data pipelines (ETL)
 - Data automation and APIs
 - Backend systems for client-facing products
 
-Currently, I'm an incoming **Data Engineering intern at IBM**, focused on delivering efficient, scalable solutions using **Python**, **SQL**, and **Power BI**.
+Currently, I'm an incoming **Data and Backend intern at IBM**, focused on delivering efficient, scalable solutions using **Java**, **Spring**, and automations with **Python**.
 
 ---
 
@@ -28,16 +28,16 @@ Currently, I'm an incoming **Data Engineering intern at IBM**, focused on delive
 
 <div align="center">
 
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel"/>
-<img height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
+<img height="50" src="https://img.icons8.com/color/48/pcognos.png" alt="Power BI"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 
 </div>
 
@@ -47,10 +47,11 @@ Currently, I'm an incoming **Data Engineering intern at IBM**, focused on delive
 
 ```bash
 > Skills --list
+[✔] Building and mantaining Applications with Java
 [✔] Building ETL pipelines with Python (Pandas, SQLAlchemy)
 [✔] Data analysis and reporting with Power BI and Excel
 [✔] SQL querying (PostgreSQL, MySQL, SQLite)
-[✔] Backend APIs with Spring Boot, NestJS, FastAPI
+[✔] Backend APIs with Spring Boot, NestJS, Django
 [✔] Containerization with Docker
 [✔] Git version control and GitHub collaboration
 ```
