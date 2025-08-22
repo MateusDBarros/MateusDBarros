@@ -26,7 +26,6 @@ Currently, I'm an incoming **Data and Backend intern at IBM**, focused on delive
 
 ## ⚙️ Tech Stack
 
-<div align="center">
 
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
