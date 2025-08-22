@@ -26,18 +26,18 @@ Currently, I'm an incoming **Data and Backend intern at IBM**, focused on delive
 
 ## ⚙️ Tech Stack
 
-<p align="center" display="flex">
+<p align="center">
 
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-<img height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 </p>
 
