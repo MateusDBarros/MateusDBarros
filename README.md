@@ -26,7 +26,9 @@ Currently, I'm an incoming **Data and Backend intern at IBM**, focused on delive
 
 ## ⚙️ Tech Stack
 
+<div align="center">
 
+<div>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -37,6 +39,7 @@ Currently, I'm an incoming **Data and Backend intern at IBM**, focused on delive
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</div>
 
 </div>
 
