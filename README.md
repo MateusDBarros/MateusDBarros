@@ -84,9 +84,9 @@ Java, Spring Boot, Docker, Javascript, Postgresql
 
 --- 
 
-**[Leads](https://github.com/MateusDBarros/Leads)**  
+**[Leads](https://github.com/MateusDBarros/FeedBack360)**  
 Lead collection chatbot with PostgreSQL backend.
-Python, Flask, PostgreSQL, HTML/CSS
+Java 17, Spring Framework, Spring Security, Postgresql
 
 ---
 
