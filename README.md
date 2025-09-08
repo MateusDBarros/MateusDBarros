@@ -1,44 +1,49 @@
-<h1 align="center">☕️MateusBarros</h1>
+<h1 align="center">☕️ Mateus Barros</h1>
 <p align="center">
-  <b>Software & Data Engineering Intern at @IBM | Back-End Developer</b><br>
-  Passionate about ETL, Data Automation and Scalable Pipelines
+  <b>Data & Backend Engineering Intern @ IBM | Back-End Developer</b><br>
+  Passionate about ETL, Data Automation, and Scalable Systems
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Data%20Projects-blue?style=for-the-badge&logo=ibm&logoColor=white">
-  <img src="https://img.shields.io/badge/Tech-Focused%20on%20Python%2C%20SQL%2C%20Power%20BI-0F62FE?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Data%20%26%20Backend%20Projects-blue?style=for-the-badge&logo=ibm&logoColor=white">
+  <img src="https://img.shields.io/badge/Tech-Python%2C%20Java%2C%20SQL%2C%20Node.js%2C%20Power%20BI-0F62FE?style=for-the-badge">
 </p>
 
 ---
+
 ## 🧠 About Me
 
-I'm a Systems Analysis student at FATEC and a passionate problem solver who started in **back-end development** and has evolved into the world of **data engineering**.
+I'm a Systems Analysis student at **FATEC** who started in **back-end development** and expanded into the world of **data engineering**.  
 
-As a freelancer, I’ve worked on real-world projects involving:
-- Data pipelines (ETL)
-- Data automation and APIs
-- Backend systems for client-facing products
+💡 As a freelancer, I’ve worked on real-world projects involving:  
+- Data pipelines (ETL) and automation  
+- Backend systems for client-facing products  
+- REST APIs and integrations  
 
-Currently, I'm an incoming **Data and Backend intern at IBM**, focused on delivering efficient, scalable solutions using **Java**, **Spring**, and automations with **Python**.
+🚀 Currently, I’m a **Data & Backend Engineering Intern at IBM**, contributing to:  
+- **Application modernization** with Java and Spring Boot  
+- **Data workflows and ETL** using Python, SQL, and Excel  
+- Insights and reporting with **Power BI**  
+- Collaboration in an **international team**, improving both technical and soft skills  
 
 ---
-
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img height="50"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
 </p>
 
 ---
@@ -47,17 +52,16 @@ Currently, I'm an incoming **Data and Backend intern at IBM**, focused on delive
 
 ```bash
 > Skills --list
-[✔] Building and mantaining Applications with Java
+[✔] Application development with Java (Spring Boot) and Node.js (NestJS)
 [✔] Building ETL pipelines with Python (Pandas, SQLAlchemy)
 [✔] Data analysis and reporting with Power BI and Excel
 [✔] SQL querying (PostgreSQL, MySQL, SQLite)
-[✔] Backend APIs with Spring Boot, NestJS, Django
-[✔] Containerization with Docker
-[✔] Git version control and GitHub collaboration
+[✔] Experience with Elasticsearch for optimized search
+[✔] RESTful APIs with Spring Boot, NestJS, Django
+[✔] Containerization and deployments with Docker
+[✔] Version control and collaboration with Git & GitHub
+
 ```
-
----
-
 
 <div align="center"> <h2>📊 Projects</h2>
 </div>
