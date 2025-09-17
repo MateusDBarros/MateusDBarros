@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Data%20%26%20Backend%20Projects-blue?style=for-the-badge&logo=ibm&logoColor=white">
-  <img src="https://img.shields.io/badge/Tech-Python%2C%20Java%2C%20SQL%2C%20Node.js%2C%20Power%20BI-0F62FE?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Cloud%20%26%20Data%20Projects-blue?style=for-the-badge&logo=ibm&logoColor=white">
+  <img src="https://img.shields.io/badge/Tech-Java%2C%20Spring%20Boot%2C%20Python%2C%20SQL%2C%20Docker%2C%20Power%20BI-0F62FE?style=for-the-badge">
 </p>
+
 
 ---
 
