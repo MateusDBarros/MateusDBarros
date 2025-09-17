@@ -1,7 +1,7 @@
 <h1 align="center">☕️ Mateus Barros</h1>
 <p align="center">
-  <b>Data & Backend Engineering Intern @ IBM | Back-End Developer</b><br>
-  Passionate about ETL, Data Automation, and Scalable Systems
+  <b>Software Developer & Data/AI Intern @ IBM | Backend & Data Engineering</b><br>
+  Bridging <b>cloud-native development</b> with <b>data-driven solutions</b>
 </p>
 
 <p align="center">
