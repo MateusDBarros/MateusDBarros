@@ -76,9 +76,10 @@ Python, Pandas, Excel, Matplotlib, Power Bi
 
 ---
 
-**[Feels](https://github.com/MateusDBarros/Feels)**  
-Sentiment classifier for product reviews and feedback.
-Python, FastAPI, Text Processing
+**[granite-company-agent](https://github.com/MateusDBarros/granite-company-agent)**  
+The Granite Company Agent is a lightweight, fine-tuned language model built on top of a base causal language model.
+It is designed to process structured company data (methodologies, courses, teachers, FAQs, testimonials) and provide accurate, context-aware responses to user queries.
+Python, Transformers, PyTorch, NLP
 
 ---
 
