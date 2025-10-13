@@ -27,6 +27,11 @@ I'm a Systems Analysis student at **FATEC** who started in **back-end developmen
 - Insights and reporting with **Power BI**  
 - Collaboration in an **international team**, improving both technical and soft skills  
 
+🎓 **Certifications**
+- Oracle Certified Data Science Professional (OCI, 2025)
+- Oracle Java Foundations & Java Programming
+- IBM: Cloud Native Java Applications, Cloud Essentials, Data Science Methodologies, NLP with Python
+
 ---
 
 ## ⚙️ Tech Stack
