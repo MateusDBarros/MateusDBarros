@@ -3,6 +3,7 @@
   <b>Software Developer & Data/AI Intern @ IBM | Backend & Data Engineering</b><br>
   Bridging <b>cloud-native development</b> with <b>data-driven solutions</b>
 </p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6e1d57f9-3719-4cef-b27c-58e116446a89" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Cloud%20%26%20Data%20Projects-blue?style=for-the-badge&logo=ibm&logoColor=white">
