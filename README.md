@@ -80,13 +80,15 @@ Vector search + LLM reasoning for evidence-based M&A analysis
 * Semantic retrieval over historical deal data
 * Explicit linkage between risks and post-merger outcomes
 * Analytical agent powered by IBM Granite
-Tech: Python, Milvus, Sentence Transformers, LangGraph, IBM Granite
+  
+Python, Milvus, Sentence Transformers, LangGraph, IBM Granite
 
 ---
 
 **[granite-company-agent](https://github.com/MateusDBarros/granite-company-agent)**  
 The Granite Company Agent is a lightweight, fine-tuned language model built on top of a base causal language model.
 It is designed to process structured company data (methodologies, courses, teachers, FAQs, testimonials) and provide accurate, context-aware responses to user queries.
+
 Python, Transformers, PyTorch, NLP
 
 ---
@@ -94,16 +96,10 @@ Python, Transformers, PyTorch, NLP
 BeeTracker
 
 Application tracker with personalized job tracking.
+
 Java, Spring Boot, Docker, Javascript, Postgresql
 
 --- 
-
-**[Leads](https://github.com/MateusDBarros/FeedBack360)**  
-Lead collection chatbot with PostgreSQL backend.
-Java 17, Spring Framework, Spring Security, Postgresql
-
----
-
 
 </div>
 
