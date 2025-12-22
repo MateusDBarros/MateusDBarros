@@ -1,70 +1,71 @@
-<h1 align="center">☕️ Mateus Barros</h1>
+<h1 align="center">Mateus Barros</h1>
+
 <p align="center">
-  <b>Software Developer & Data/AI Intern @ IBM | Backend & Data Engineering</b><br>
-  Bridging <b>cloud-native development</b> with <b>data-driven solutions</b>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Cloud%20%26%20Data%20Projects-blue?style=for-the-badge&logo=ibm&logoColor=white">
-  <img src="https://img.shields.io/badge/Tech-Java%2C%20Spring%20Boot%2C%20Python%2C%20SQL%2C%20Docker%2C%20Power%20BI-0F62FE?style=for-the-badge">
+  <b>Data Scientist & Applied AI Intern @ IBM</b><br>
+  Building <b>data-driven intelligence systems</b> with <b>ML, LLMs and cloud-native architectures</b>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Data%20Science%20%26%20AI-blue?style=for-the-badge&logo=ibm&logoColor=white">
+  <img src="https://img.shields.io/badge/Focus-RAG%20%7C%20Fine--Tuning%20%7C%20Applied%20ML-0F62FE?style=for-the-badge">
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a Systems Analysis student at **FATEC** who started in **back-end development** and expanded into the world of **data engineering**.  
+I'm a **Systems Analysis student at FATEC** with a strong focus on **Applied Data Science and AI systems**.
 
-💡 As a freelancer, I’ve worked on real-world projects involving:  
-- Data pipelines (ETL) and automation  
-- Backend systems for client-facing products  
-- REST APIs and integrations  
+I started my career in **backend development**, which gave me a solid foundation in software engineering, APIs, and cloud-native systems. Over time, I transitioned into **data engineering, machine learning, and LLM-based solutions**, working with real-world business problems rather than toy datasets.
 
-🚀 Currently, I’m a **Data & Backend Engineering Intern at IBM**, contributing to:  
-- **Application modernization** with Java and Spring Boot  
-- **Data workflows and ETL** using Python, SQL, and Excel  
-- Insights and reporting with **Power BI**  
-- Collaboration in an **international team**, improving both technical and soft skills  
+🚀 Currently, I work as a **Data & Backend Engineering Intern at IBM**, where I contribute to:
 
-🎓 **Certifications**
+- **Data pipelines and ETL workflows** using Python and SQL  
+- **AI-driven analytical systems**, including RAG and fine-tuned LLMs  
+- **Backend services** with Java and Spring Boot  
+- Collaboration with **international, cross-functional teams**
+
+My main interest lies in building **decision intelligence systems** that transform unstructured data into **actionable business insights**.
+
+---
+
+## 🎓 Certifications
+
 - Oracle Certified Data Science Professional (OCI, 2025)
 - Oracle Java Foundations & Java Programming
-- IBM: Cloud Native Java Applications, Cloud Essentials, Data Science Methodologies, NLP with Python
+- IBM:
+  - Data Science Methodologies
+  - NLP with Python
+  - Cloud Native Java Applications
+  - Cloud Essentials
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
-
 
 ---
 
-## 📂 Skills
+## 📂 Core Skills
 
 ```bash
-> Skills --list
-[✔] Application development with Java (Spring Boot) and Node.js (NestJS)
-[✔] Building ETL pipelines with Python (Pandas, SQLAlchemy)
-[✔] Data analysis and reporting with Power BI and Excel
-[✔] SQL querying (PostgreSQL, MySQL, SQLite)
-[✔] Experience with Elasticsearch for optimized search
-[✔] RESTful APIs with Spring Boot, NestJS, Django
-[✔] Containerization and deployments with Docker
-[✔] Version control and collaboration with Git & GitHub
+> skills --profile=applied_data_scientist
+
+[✔] Classical Machine Learning (regression, classification, clustering)
+[✔] Retrieval-Augmented Generation (RAG) systems
+[✔] Fine-tuning LLMs for domain-specific tasks
+[✔] Vector databa
+
 
 ```
 
@@ -74,9 +75,12 @@ I'm a Systems Analysis student at **FATEC** who started in **back-end developmen
 <div align="center">
 
 
-**[ETL Pipeline](https://github.com/MateusDBarros/etl_pipeline)**  
-Script written in python using pandas, excel and matplotlib where I Extract and Clean the data, Transform and Load into another Excel file, ready to be used for powerBi dashboard, following Clean Code and Market Standarts
-Python, Pandas, Excel, Matplotlib, Power Bi
+**[M&A Deal Intelligence — RAG-based Analytical System](https://github.com/MateusDBarros/ma-knowledge-risk-intelligence)**  
+Vector search + LLM reasoning for evidence-based M&A analysis
+* Semantic retrieval over historical deal data
+* Explicit linkage between risks and post-merger outcomes
+* Analytical agent powered by IBM Granite
+Tech: Python, Milvus, Sentence Transformers, LangGraph, IBM Granite
 
 ---
 
