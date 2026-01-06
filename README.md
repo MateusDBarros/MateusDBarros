@@ -93,11 +93,10 @@ Python, Transformers, PyTorch, NLP
 
 ---
 
-BeeTracker
+**[job-execution-engine](https://github.com/MateusDBarros/job-execution-engine)**  
+A robust Java-based job execution engine that orchestrates Python processing tasks. This system demonstrates clean separation of concerns where Java handles lifecycle management, state persistence, and orchestration, while Python performs the actual data processing.
 
-Application tracker with personalized job tracking.
-
-Java, Spring Boot, Docker, Javascript, Postgresql
+Java, Spring Boot, Python, Postgresql
 
 --- 
 
