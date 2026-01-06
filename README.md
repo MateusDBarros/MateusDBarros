@@ -1,7 +1,7 @@
 <h1 align="center">Mateus Barros</h1>
 
 <p align="center">
-  <b>Data Scientist & Applied AI Intern @ IBM</b><br>
+  <b>Software Developer & Applied AI Engineer Intern @ IBM</b><br>
   Building <b>data-driven intelligence systems</b> with <b>ML, LLMs and cloud-native architectures</b>
 </p>
 
