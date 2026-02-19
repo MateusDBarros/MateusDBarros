@@ -77,9 +77,9 @@ My main interest lies in building **decision intelligence systems** that transfo
 
 **[M&A Deal Intelligence — RAG-based Analytical System](https://github.com/MateusDBarros/ma-knowledge-risk-intelligence)**  
 Vector search + LLM reasoning for evidence-based M&A analysis
-* Semantic retrieval over historical deal data
-* Explicit linkage between risks and post-merger outcomes
-* Analytical agent powered by IBM Granite
+Semantic retrieval over historical deal data
+Explicit linkage between risks and post-merger outcomes
+Analytical agent powered by IBM Granite
   
 Python, Milvus, Sentence Transformers, LangGraph, IBM Granite
 
@@ -101,10 +101,6 @@ Java, Spring Boot, Python, Postgresql
 --- 
 
 </div>
-
-<div align="center"> <h2>📈 GitHub Stats</h2> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MateusDBarros&show_icons=true&theme=radical&count_private=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDBarros&layout=compact&theme=radical"/> </div>
-
----
 
 <div align="center">
   
