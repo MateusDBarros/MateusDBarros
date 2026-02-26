@@ -42,9 +42,11 @@ Distributed Systems • Data Engineering • NLP • Cloud Architecture
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
-
----
+<div align="center">
+  <h2>👀 Visitors</h2>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=MateusDBarros&color=0E9443" alt="Profile views" />
+  </p>
 
 <div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6706a9&height=120&section=footer"/>
