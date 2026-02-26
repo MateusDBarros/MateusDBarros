@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6706a9&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf74ff&size=32&center=true&vCenter=true&width=1000&lines=Mateus+Barros;AI+Systems+Engineer;Building+Intelligent+Platforms+%7C+RAG+%7C+LLMs+%7C+Distributed+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf74ff&size=32&center=true&vCenter=true&width=1000&lines=Mateus+Barros;AI+Systems+Architect;Building+Intelligent+Platforms+%7C+RAG+%7C+LLMs+%7C+Distributed+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,9 +14,9 @@
 
 <div align="center">
 
-AI Systems Engineer focused on designing intelligent platforms that integrate data engineering, distributed systems, and large language models.
+AI/ML Software Architect focused on designing advanced platforms that integrate data engineering, distributed systems, and large language models.
 
-Data & Backend Engineering Intern at IBM.
+Software Developer Intern at IBM.
 
 Background in backend development and system architecture, later extended into machine learning, retrieval systems, and enterprise AI applications.
 
@@ -33,33 +33,6 @@ Education: Systems Analysis and Development — FATEC.
 
 </div>
 
----
-
-<div align="center">
-<h1>Engineering Focus</h1>
-</div>
-
-<div align="center">
-
-**AI Systems**
-- Retrieval pipelines and reasoning workflows
-- Fine-tuning and domain adaptation
-- LLM evaluation and structured generation
-- Enterprise AI integration
-
-**Data & Infrastructure**
-- Vector databases and semantic search
-- Data processing pipelines
-- Structured and unstructured data modeling
-- Distributed processing systems
-
-**Backend & Platform Engineering**
-- Service architecture and API design
-- Job orchestration systems
-- Java–Python integration patterns
-- Cloud-native applications
-
-</div>
 
 ---
 
@@ -72,6 +45,7 @@ Education: Systems Analysis and Development — FATEC.
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img align="center" height="50" width="50" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
