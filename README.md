@@ -1,119 +1,160 @@
-<h1 align="center">Mateus Barros</h1>
-
-<p align="center">
-  <b>Software Developer & Applied AI Engineer Intern @ IBM</b><br>
-  Building <b>data-driven intelligence systems</b> with <b>ML, LLMs and cloud-native architectures</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Data%20Science%20%26%20AI-blue?style=for-the-badge&logo=ibm&logoColor=white">
-  <img src="https://img.shields.io/badge/Focus-RAG%20%7C%20Fine--Tuning%20%7C%20Applied%20ML-0F62FE?style=for-the-badge">
-</p>
-
----
-
-## 🧠 About Me
-
-I'm a **Systems Analysis student at FATEC** with a strong focus on **Applied Data Science and AI systems**.
-
-I started my career in **backend development**, which gave me a solid foundation in software engineering, APIs, and cloud-native systems. Over time, I transitioned into **data engineering, machine learning, and LLM-based solutions**, working with real-world business problems rather than toy datasets.
-
-🚀 Currently, I work as a **Data & Backend Engineering Intern at IBM**, where I contribute to:
-
-- **Data pipelines and ETL workflows** using Python and SQL  
-- **AI-driven analytical systems**, including RAG and fine-tuned LLMs  
-- **Backend services** with Java and Spring Boot  
-- Collaboration with **international, cross-functional teams**
-
-My main interest lies in building **decision intelligence systems** that transform unstructured data into **actionable business insights**.
-
----
-
-## 🎓 Certifications
-
-- Oracle Certified Data Science Professional (OCI, 2025)
-- Oracle Java Foundations & Java Programming
-- IBM:
-  - Data Science Methodologies
-  - NLP with Python
-  - Cloud Native Java Applications
-  - Cloud Essentials
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</p>
-
----
-
-## 📂 Core Skills
-
-```bash
-> skills --profile=applied_data_scientist
-
-[✔] Classical Machine Learning (regression, classification, clustering)
-[✔] Retrieval-Augmented Generation (RAG) systems
-[✔] Fine-tuning LLMs for domain-specific tasks
-[✔] Vector databa
-
-
-```
-
-<div align="center"> <h2>📊 Projects</h2>
-</div>
-
 <div align="center">
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6706a9&height=100&section=header"/>
 
-**[M&A Deal Intelligence — RAG-based Analytical System](https://github.com/MateusDBarros/ma-knowledge-risk-intelligence)**  
-Vector search + LLM reasoning for evidence-based M&A analysis
-Semantic retrieval over historical deal data
-Explicit linkage between risks and post-merger outcomes
-Analytical agent powered by IBM Granite
-  
-Python, Milvus, Sentence Transformers, LangGraph, IBM Granite
-
----
-
-**[granite-company-agent](https://github.com/MateusDBarros/granite-company-agent)**  
-The Granite Company Agent is a lightweight, fine-tuned language model built on top of a base causal language model.
-It is designed to process structured company data (methodologies, courses, teachers, FAQs, testimonials) and provide accurate, context-aware responses to user queries.
-
-Python, Transformers, PyTorch, NLP
-
----
-
-**[job-execution-engine](https://github.com/MateusDBarros/job-execution-engine)**  
-A robust Java-based job execution engine that orchestrates Python processing tasks. This system demonstrates clean separation of concerns where Java handles lifecycle management, state persistence, and orchestration, while Python performs the actual data processing.
-
-Java, Spring Boot, Python, Postgresql
-
---- 
-
-</div>
-
-<div align="center">
-  
-<div align="center"> <h2>📬 Contact</h2>
-<a href="mailto:mb685212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/mateus-barros13"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf74ff&size=32&center=true&vCenter=true&width=1000&lines=Mateus+Barros;AI+Systems+Engineer;Building+Intelligent+Platforms+%7C+RAG+%7C+LLMs+%7C+Distributed+Systems)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 <div align="center">
-  <h2>👀 Visitors</h2>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=MateusDBarros&color=0E9443" alt="Profile views" />
-  </p>
+<h1>About Me</h1>
+</div>
+
+<div align="center">
+
+AI Systems Engineer focused on designing intelligent platforms that integrate data engineering, distributed systems, and large language models.
+
+Data & Backend Engineering Intern at IBM.
+
+Background in backend development and system architecture, later extended into machine learning, retrieval systems, and enterprise AI applications.
+
+Main focus:
+
+• Retrieval-Augmented Generation (RAG) architectures  
+• Agent orchestration workflows  
+• Vector search infrastructure  
+• Data pipelines and ETL systems  
+• AI-driven decision intelligence platforms  
+• Distributed processing and system design  
+
+Education: Systems Analysis and Development — FATEC.
+
+</div>
+
+---
+
+<div align="center">
+<h1>Engineering Focus</h1>
+</div>
+
+<div align="center">
+
+**AI Systems**
+- Retrieval pipelines and reasoning workflows
+- Fine-tuning and domain adaptation
+- LLM evaluation and structured generation
+- Enterprise AI integration
+
+**Data & Infrastructure**
+- Vector databases and semantic search
+- Data processing pipelines
+- Structured and unstructured data modeling
+- Distributed processing systems
+
+**Backend & Platform Engineering**
+- Service architecture and API design
+- Job orchestration systems
+- Java–Python integration patterns
+- Cloud-native applications
+
+</div>
+
+---
+
+<div align="center">
+<h1>Core Technologies</h1>
+</div>
+
+<div align="center">
+
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+Vector Databases • Transformers • LangGraph • RAG Pipelines  
+Distributed Systems • Data Engineering • NLP • Cloud Architecture
+
+</div>
+
+---
+
+<div align="center">
+<h1>Selected Systems</h1>
+</div>
+
+<div align="center">
+
+### M&A Deal Intelligence Platform  
+https://github.com/MateusDBarros/ma-knowledge-risk-intelligence  
+
+End-to-end analytical platform for evidence-based M&A analysis.
+
+• Data ingestion and embedding pipeline  
+• Semantic retrieval with Milvus  
+• Analytical agent for risk/outcome correlation  
+• Retrieval + reasoning workflows  
+• Evidence-based decision support  
+
+Python • Milvus • Sentence Transformers • LangGraph • IBM Granite
+
+---
+
+### Enterprise Agent System (Granite-based)  
+https://github.com/MateusDBarros/granite-company-agent  
+
+Domain-adapted language model for enterprise knowledge processing.
+
+• Fine-tuned causal language model  
+• Structured enterprise data ingestion  
+• Context-aware response generation  
+• Controlled reasoning pipeline  
+
+Python • Transformers • PyTorch
+
+---
+
+### Job Execution Engine (Java–Python)  
+https://github.com/MateusDBarros/job-execution-engine  
+
+Distributed execution platform for orchestrating Python workloads.
+
+• Job lifecycle management  
+• Execution isolation and timeout control  
+• Java orchestration layer (Spring Boot)  
+• Contract-based processing workers  
+
+Java • Spring Boot • Python • PostgreSQL
+
+</div>
+
+---
+
+<div align="center">
+<h1>Contact</h1>
+
+<a href="mailto:mb685212@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mateus-barros13">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6706a9&height=120&section=footer"/>
 </div>
