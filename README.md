@@ -45,7 +45,7 @@ Education: Systems Analysis and Development — FATEC.
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<img align="center" height="50" width="50" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -64,13 +64,13 @@ Distributed Systems • Data Engineering • NLP • Cloud Architecture
 ---
 
 <div align="center">
-<h1>Selected Systems</h1>
+<h1>Star Projects</h1>
 </div>
 
 <div align="center">
 
 ### M&A Deal Intelligence Platform  
-https://github.com/MateusDBarros/ma-knowledge-risk-intelligence  
+[ma-knowledge-risk-intelligence](https://github.com/MateusDBarros/ma-knowledge-risk-intelligence)
 
 End-to-end analytical platform for evidence-based M&A analysis.
 
@@ -85,7 +85,7 @@ Python • Milvus • Sentence Transformers • LangGraph • IBM Granite
 ---
 
 ### Enterprise Agent System (Granite-based)  
-https://github.com/MateusDBarros/granite-company-agent  
+[granite-company-agent](https://github.com/MateusDBarros/granite-company-agent)  
 
 Domain-adapted language model for enterprise knowledge processing.
 
@@ -98,19 +98,36 @@ Python • Transformers • PyTorch
 
 ---
 
+### GOLearning  
+[Go Learning](https://github.com/MateusDBarros/GoLearning)
+
+Repository dedicated to my studies in Go and Software Architecture
+
+• Design Pattern
+• Software Architecture  
+• Low-Level Code 
+
+Go • PostgreSQL
+
+</div>
+
+
+---
+
 ### Job Execution Engine (Java–Python)  
-https://github.com/MateusDBarros/job-execution-engine  
+[ONG](https://github.com/MateusDBarros/ONG)  
 
-Distributed execution platform for orchestrating Python workloads.
+Donation Plataform for Non Governamental Organization
 
-• Job lifecycle management  
-• Execution isolation and timeout control  
+• Donors and Donation management  
+• Categorization  
 • Java orchestration layer (Spring Boot)  
-• Contract-based processing workers  
+• Reports and Statistics Generation
 
 Java • Spring Boot • Python • PostgreSQL
 
 </div>
+
 
 ---
 
