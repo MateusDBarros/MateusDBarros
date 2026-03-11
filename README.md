@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6706a9&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E0996&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf74ff&size=32&center=true&vCenter=true&width=1000&lines=Mateus+Barros;AI+Systems+Architect;Building+Intelligent+Platforms+%7C+RAG+%7C+LLMs+%7C+Distributed+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf74ff&size=32&center=true&vCenter=true&width=1000&lines=Mateus+Barros;Brazil;Systems+Architect;%7C+RAG+%7C+LLMs+%7C+Distributed+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,6 +15,7 @@
 <div align="center">
 
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="center" alt="Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/> 
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
@@ -49,5 +50,5 @@ Distributed Systems • Data Engineering • NLP • Cloud Architecture
   </p>
 
 <div align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6706a9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E0996&height=120&section=footer"/>
 </div>
